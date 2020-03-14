@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#Show Pictures script
+
+cd ~/Pictures
+
+ls  *.jpg *.png | dmenu -l 30  -p "Choose picture" | xargs -I {} feh "{}"

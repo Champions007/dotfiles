@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd ~/Videos/Youtube-videos
+
+ls * | dmenu -l 30 -p "Choose video:" | xargs -I {} mpv "{}"

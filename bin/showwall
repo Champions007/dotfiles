@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#Show Wallpapers script
+
+cd ~/Pictures/Wallpapers
+
+ls  *.jpg *.png | dmenu -l 30 -p "Choose wallpaper" | xargs -I {} feh "{}"

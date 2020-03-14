@@ -1,0 +1,5 @@
+#!/bin/bash
+
+program_list=$(cat program_list.txt)
+
+$program_list

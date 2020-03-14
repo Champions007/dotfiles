@@ -1,0 +1,58 @@
+#---BSPWM Bidings
+
+# Open terminal
+super + Return
+    tilix
+
+# Volume controls
+XF86Audio{Mute,LowerVolume,RaiseVolume}
+    pactl set-sink-volume {0 toggle,0 -5%,0 +5%}
+
+# Brightness Controls 
+XF86MonBrightness{Up,Down}
+    xbacklight {-inc 20,-dec 20}
+
+# Restart hotkey damoen
+super + shift + r
+    killall sxhkd && notify-send "Config Reloaded" && sxhkd &
+
+# Restart bspwm
+super + shift + w
+    bspc wm -r
+
+# Kill window
+super + shift + q
+    xdo close && bspunhide
+
+# Move between desctop windows
+super + {Up,Down,Left,Right}
+    bspc node -f {north,south,west,east}
+
+# Move beetween virtual desktops
+super + {1-9}
+    bspc desktop -f {1-9}
+
+# Lock screen.
+super + shift + x
+    betterlockscreen -l
+
+# Launch application menu
+super + shift + d
+    rofi -show run
+
+# Launch email client
+super + shift + m
+    tilix -e neomutt
+
+# Set a window state
+super + {t,f}
+    bspc node -t {tiled,fullscreen}
+
+# Edit config files
+super + shift + e
+    show_configs
+
+# Move window to workspace
+super + {_,shift + }{1-9,0}
+    bspc {desktop -f,node -d} '^{1-9,10}'
+

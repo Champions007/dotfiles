@@ -1,0 +1,91 @@
+sw_volume: 96
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: play
+current: 75
+time: 139.827000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:_-n2qgc8vF8sU.opus
+1:_-8-gpAw17vhc.opus
+2:_-fxOjcjl3TFU.opus
+3:_-_p5exp2TZeM.opus
+4:_-b6gURWgL8Zk.opus
+5:_-xXsvJZrycLM.opus
+6:_-zgZiHaXI5eg.opus
+7:_-ximpuQdIqgY.opus
+8:_-V6uUFkKVJpQ.opus
+9:_-66hlb1cOmnA.opus
+10:_-V6uUFkKVJpQ.opus
+11:_-9gbWms0rcCU.opus
+12:_-NFB6Y2Qt8ag.opus
+13:_-bwc90PDigs4.opus
+14:_-wijlEgFZFAk.opus
+15:_-h9vMpX_uVA0.opus
+16:_-IPIoRPtzdG4.opus
+17:_-J6-_qq9ySrc.m4a
+18:_-90P6MgZYI4A.opus
+19:_-6usL6hCjL2I.opus
+20:_-JoVSsGgbVK4.opus
+21:_-JJvdp0XpSj0.opus
+22:_-PmYRJJg60F8.opus
+23:_-3QXzwSSmz7Q.opus
+24:_--BGnUg5QKig.opus
+25:_-MRkUw3uc324.opus
+26:_-cvq7Jy-TFAU.opus
+27:_-00vVP_TrU2M.opus
+28:_-npomRIkyU3g.opus
+29:_-9dua4A6nJ2Y.opus
+30:_-XN4WpPd-Ek0.opus
+31:_-pGvdvT_XWWI.opus
+32:_-6yyVQ7AmAW4.opus
+33:_-yYPXVcgZo-U.opus
+34:_-yWsavFUvEIw.m4a
+35:_-G1qO2pxzHNE.opus
+36:_-U4hMQtcKfQo.opus
+37:_-OVMuwa-HRCQ.opus
+38:_-SCD2tB1qILc.opus
+39:_-rqbMrRDOu34.m4a
+40:_-RSQqVDmNaj0.m4a
+41:_-SCD2tB1qILc.opus
+42:_-h9vMpX_uVA0.opus
+43:_-U5HZkt7yGPY.opus
+44:_-e07zwkNoeLA.opus
+45:_-1dcXmkco5ko.opus
+46:_-tS3HPXCxJUw.opus
+47:_-BrCKvKXvN2c.opus
+48:_-wtc9KcMbsio.opus
+49:_-wijlEgFZFAk.opus
+50:_-XM7lb5wiQkE.opus
+51:_-jwvXM1jnUUM.opus
+52:_-nPKDy-lxED4.opus
+53:_-JoVSsGgbVK4.opus
+54:_-90P6MgZYI4A.opus
+55:_-90P6MgZYI4A.opus
+56:_-90P6MgZYI4A.opus
+57:_-w96QLJ5Byq8.m4a
+58:_-JoVSsGgbVK4.opus
+59:_-PAuBlOAdpbE.opus
+60:_-LqD17ZDpVCk.opus
+61:_-h_At3vblkso.m4a
+62:_-ifxjept6dTU.opus
+63:_-gt_J42Hhgfw.opus
+64:_-M_HXDpSWzFo.m4a
+65:_-hwJGx2KeMhU.opus
+66:_-h-T__qXRXXk.opus
+67:_-oIxccZRFsnU.m4a
+68:_-ZdipWuDaauE.opus
+69:_-xlzRuOzfD4A.opus
+70:_-ebw-_peGnZ4.m4a
+71:_-U5HZkt7yGPY.opus
+72:_-U5HZkt7yGPY.opus
+73:_-M--O-T_qm0c.m4a
+74:_-90P6MgZYI4A.opus
+75:_-hAIMjoAChuY.opus
+playlist_end

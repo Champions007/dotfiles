@@ -1,0 +1,13 @@
+#!/bin/sh
+
+configs="sxhkdrc\nbspwmrc\npolybarrc"
+
+chosen=$(echo "$configs" | dmenu -p "Configs:")
+
+case "$chosen" in
+    sxhkdrc)tilix -e vim ~/.config/sxhkd/sxhkdrc &;;
+    bspwmrc)tilix -e vim ~/.config/bspwm/bspwmrc &;;
+    polybarrc)tilix -e vim ~/.config/polybar/config &;;
+esac
+
+

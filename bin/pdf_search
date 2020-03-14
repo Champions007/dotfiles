@@ -1,0 +1,13 @@
+#!/bin/bash
+
+pdf_select(){
+cd ~/Documents/PDF_documents
+
+choosen_directory=$(ls  | dmenu -l 30 -p "Chose project document map: ")
+
+choosen_file=$(ls $choosen_directory | dmenu -l 10 -p "Select file: ")
+
+zathura $choosen_directory/$choosen_file
+}
+
+pdf_select

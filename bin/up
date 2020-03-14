@@ -1,0 +1,141 @@
+#!/bin/bash
+
+# Simple script to update ubuntu.
+
+#Variables:
+
+dist_relese=$(lsb_release -a 2>&1 | awk '/Distributor ID:/ {print $3}')
+#Functions:
+
+update(){
+
+echo "Starting package updates..."
+sudo apt-get update
+sudo apt-get upgrade
+leave
+
+}
+
+clean(){
+
+echo "Cleaning up..."
+sudo apt-get autoremove
+sudo apt-get autoclean
+leave
+
+}
+
+update-clean(){
+update_log=$".update_log.txt"
+echo "Starting full system update..."
+echo "Update started:" > $HOME/$update_log
+date >> $HOME/$update_log
+echo -n "Downloading available package..."; sudo apt-get update >> $HOME/$update_log; echo  "done."
+echo -n "Updating local packages to newest..."; sudo apt-get upgrade -y >> $HOME/$update_log; echo " done."
+echo -n "Starting system's cleaning..."; sudo apt-get autoremove -y >> $HOME/$update_log; sudo apt-get autoclean -y >> $HOME/$update_log; echo "done."
+notify-send "Update completed, see file $update_log for more details."
+leave
+}
+
+update-flatpak(){
+if [ -f "/usr/bin/flatpak" ]; then
+echo "Starting flatpak update..."
+sudo flatpak update
+leave
+else
+echo "No flatpak installed?\n Please install flatpak package manager."
+fi
+}
+
+leave(){
+
+echo "--------------------"
+echo "- Update Complete! -"
+echo "--------------------"
+exit
+
+}
+
+help-page(){
+
+cat << _EOF_
+
+Up is a tool that automates update procedure for Debian and Ubuntu  based Linux systems.
+
+Commands: 
+    1)Update - Update system.
+    2)Clean - Clean the system."
+    3)Update and clean - Updates system and cleans it."
+    4)Update-flatpak - Updates flatpak packages.
+    5)Help - help page for more detailed information."
+    6)Exit - Exits from program by users choice."
+
+By Mareks Rops (GNU/General Public License version 1.0.1)
+
+_EOF_
+
+
+read -n 1 -s -r -p "Press any key to exit from help page"
+clear
+selection
+
+}
+
+script-exit(){
+    
+echo "Do you want to exit from updater 'y' or 'n'."
+
+while true; do
+read -rsn1 input
+if [ "$input" == "y" ]; then
+    echo "Exiting..."
+    exit
+elif [ "$input" == "n" ]; then
+    clear
+    echo "Returning to selection screen..."
+    selection
+else
+    echo "Wrong command to exit 'y' or 'n'"
+fi
+done
+}
+
+# Tell them who you are...
+
+selection(){
+
+cat << _EOF_
+
+Up -- Debian/Ubuntu Update Tool (Version 1.0.1)
+What you want to do?
+
+1)Update - Update system.
+2)Clean - Clean the system.
+3)Update and clean - Updates system and cleans it.
+4)Update-flatpak - Updates flatpak packages.
+5)Help - help page for more detailed information.
+6)Exit - Exits from program by users choice.
+
+_EOF_
+
+read -n 1 -s choice;
+    case $choice in
+        1) update;;
+        2) clean;;
+        3) update-clean;;
+        4) update-flatpak;;
+        5) help-page;;
+        6) script-exit;;
+        *) echo "Not a valid choice: Please enter 1, 2, 3, 4, 5 or 6."; sleep 2; clear;selection;;
+    esac
+}
+
+
+#Execution
+if [[ ! $(sudo echo 0) ]]; then exit; fi
+if [[ $dist_relese == "Ubuntu" ]]; then
+selection
+else
+echo "You are using $dist_relese not Ubuntu"
+fi
+

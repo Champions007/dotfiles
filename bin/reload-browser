@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -o errexit
+set -o nounset
+
+keystroke="CTRL+R"
+
+# set to whatever given argument default is firefox
+BROWSER="${1:-firefox}"
+
+# find all visible browser windows
+browser_windows="$(xdotool search --sync --all --onlyvisible --name ${BROWSER})"
+
+# send keystrokes
+for bw in $browser_windows; do
+    xdotool key --window "$bw" "$keystroke"
+done

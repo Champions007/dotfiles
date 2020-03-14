@@ -1,0 +1,10 @@
+#!/bin/sh
+# normal_updates=$(/usr/lib/update-notifier/apt-check 2>&1 | cut -d ';' -f 1)
+# # echo Security updates: $security_updates Program Updates: $normal_updates
+# security_updates=$(/usr/lib/update-notifier/apt-check 2>&1 | cut -d ';' -f 2)
+#
+updates=$(apt list --upgradable 2> /dev/null | wc -l)
+full_updates=$((updates - 1))
+
+echo  $full_updates 
+

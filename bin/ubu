@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+relese=$(lsb_release -a | awk '/Distributor ID:/ {print $3}')
+
+if [[ $relese == "Ubuntu" ]]; then
+    echo "Ypu are using $relese"
+fi
