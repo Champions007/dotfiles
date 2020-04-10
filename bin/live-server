@@ -1,0 +1,3 @@
+#!/bin/sh
+
+ls *.html *.css | entr -p ~/bin/reload-browser firefox
