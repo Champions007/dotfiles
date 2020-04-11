@@ -18,8 +18,8 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #19282b
-background-alt = #274447
+background = #19181c
+background-alt = #2e2c36
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555
@@ -39,6 +39,8 @@ fixed-center = false
 background = ${colors.background}
 foreground = ${colors.foreground}
 
+enable-ipc = true
+
 line-size = 3
 line-color = #f00
 
@@ -52,12 +54,13 @@ module-margin-left = 1
 module-margin-right = 2
 
 font-0 = fixed:pixelsize=10;1
-font-1 = fontawesome-regular:size=10:0
-font-2 = siji:pixelsize=10;1
+font-1 = "Noto Color Emoji:pixelsize=10:style=Regular:scale=10;1"
+font-2 = fontawesome-regular:size=10:0
+font-3 = siji:pixelsize=10;1
 
 modules-left = bspwm
 modules-center = mpd
-modules-right = filesystem xbacklight pulseaudio xkeyboard updates memory cpu wlan eth battery date 
+modules-right = filesystem xbacklight pulseaudio xkeyboard corona  updates memory cpu wlan eth  battery date 
 
 tray-position = right
 tray-padding = 2
@@ -87,10 +90,10 @@ blacklist-0 = num lock
 
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
-format-prefix-underline = ${colors.secondary}
+format-prefix-underline = ${colors.primary}
 
 label-layout = %layout%
-label-layout-underline = ${colors.secondary}
+label-layout-underline = ${colors.primary}
 
 label-indicator-padding = 2
 label-indicator-margin = 1
@@ -128,6 +131,18 @@ label-empty-padding = 2
 ;Separator in between workspaces
 ;label-separator = |
 
+[module/gmail]
+type = custom/script
+exec = ~/.config/polybar/gmail/launch.py
+tail = true
+click-left = xdg-open https://mail.google.com
+format-underline = #680e17
+
+[module/corona]
+type = custom/script
+format-underline = ${colors.primary}
+exec = ~/bin/corona
+interval = 86400
 
 [module/listmusic]
 type = custom/script
@@ -137,9 +152,11 @@ format-prefix = "Music: "
 
 [module/updates]
 type = custom/script
-interval = 3600
 exec = ~/bin/available_updates
-format-underline = #1db954
+format-underline = ${colors.primary}
+click-left = tilix -e sudo apt update
+click-right = tilix -e sudo apt upgrade
+interval = 86400
 
 
 [module/spotify1]
@@ -242,7 +259,7 @@ type = internal/cpu
 interval = 2
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #f90000
+format-underline = ${colors.primary}
 label = CPU %percentage%%
 
 [module/memory]
@@ -250,7 +267,7 @@ type = internal/memory
 interval = 2
 format-prefix =
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #4bffdc
+format-underline = ${colors.primary}
 label = RAM %percentage_used%%
 
 [module/wlan]
@@ -259,7 +276,7 @@ interface = wls2
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
-format-connected-underline = #9f78e1
+format-connected-underline = ${colors.primary}
 label-connected =  %essid%
 
 format-disconnected =
@@ -304,7 +321,7 @@ time-alt = %H:%M
 
 format-prefix = 
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #0a6cf5
+format-underline = ${colors.primary}
 
 label = %date% %time%
 
@@ -320,13 +337,13 @@ label-muted = 🔇 muted
 label-muted-foreground = #666
 
 bar-volume-width = 10
-bar-volume-foreground-0 = #55aa55
-bar-volume-foreground-1 = #55aa55
-bar-volume-foreground-2 = #55aa55
-bar-volume-foreground-3 = #55aa55
-bar-volume-foreground-4 = #55aa55
-bar-volume-foreground-5 = #f5a70a
-bar-volume-foreground-6 = #ff5555
+bar-volume-foreground-0 = ${colors.primary}
+bar-volume-foreground-1 = ${colors.primary}
+bar-volume-foreground-2 = ${colors.primary}
+bar-volume-foreground-3 = ${colors.primary}
+bar-volume-foreground-4 = ${colors.primary}
+bar-volume-foreground-5 = ${colors.alert}
+bar-volume-foreground-6 = ${colors.alert}
 bar-volume-gradient = false
 bar-volume-indicator = |
 bar-volume-indicator-font = 2
@@ -371,7 +388,7 @@ adapter = ADP1
 full-at = 98
 
 format-charging = <animation-charging> <label-charging>
-format-charging-underline = #ffb52a
+format-charging-underline = ${colors.primary}
 
 format-discharging = <animation-discharging> <label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
