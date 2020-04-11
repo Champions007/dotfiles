@@ -14,4 +14,5 @@ alias notes="joplin"
 alias ll="l-alF"
 alias la="ls -A"
 alias l="ls -CF"
-
+alias rm="rm -i"
+alias mv="mv -i"
