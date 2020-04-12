@@ -10,7 +10,7 @@ XF86Audio{Mute,LowerVolume,RaiseVolume}
 
 # Brightness Controls 
 XF86MonBrightness{Up,Down}
-    xbacklight {-inc 20,-dec 20}
+    sudo brightnessctl s {5%+,5%-}
 
 # Restart hotkey damoen
 super + shift + r
@@ -45,12 +45,16 @@ super + shift + m
     tilix -e neomutt
 
 # Set a window state
-super + {t,f}
-    bspc node -t {tiled,fullscreen}
+super + {s,t,f}
+    bspc node -t {floating,tiled,fullscreen}
 
 # Edit config files
 super + shift + e
     show_configs
+
+# Open web browser
+super + shift + b
+    firefox
 
 # Move window to workspace
 super + {_,shift + }{1-9,0}
