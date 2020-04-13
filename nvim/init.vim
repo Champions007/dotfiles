@@ -7,6 +7,8 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.local/share/nvim/plugged')
 " Syntax
+"Themes
+Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'
 Plug 'dhruvasagar/vim-table-mode'
 " Git helpers
@@ -18,10 +20,10 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'Yggdroot/indentLine'
 Plug 'Raimondi/delimitMate'
 Plug 'valloric/MatchTagAlways'
-
+" For kotlin files
+Plug 'udalov/kotlin-vim'
 " Database plugins
 "Plug 'vim-scripts/dbext.vim'
-
 " Utils
 "Plug 'OmniSharp/omnisharp-vim'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
@@ -49,9 +51,8 @@ call plug#end()
 
 "{{{Neovim theme settings
 " Airline themes
-" set background=dark
-colorscheme molokai
-let g:airline_theme='molokai'
+colorscheme codedark
+let g:airline_theme='codedark'
 let g:airline_powerline_fonts = 1
 "}}}
 
@@ -72,8 +73,13 @@ nnoremap <leader>a :NERDTreeToggle<cr>
     nnoremap <Space> za
 "}}}
 
+"{{{ Copy and paste from and to global buffer
+vnoremap <C-c> "+y
+map <C-p> "+P
+"}}}
+
 "{{{Exit from neovim built in terminal
-tnoremap <Esc> <C-\><C-n>
+" tnoremap <Esc> <C-\><C-n>
 "}}}
 
 "{{{Enable autocomplotetion:
@@ -93,8 +99,8 @@ tnoremap <Esc> <C-\><C-n>
 	set splitbelow splitright
 "}}}
 
-"{{{to start a server
-"browser-sync start --server --files "file name"
+"{{{to start a server for html projcts
+autocmd FileType html nnoremap <buffer> <leader>s :tabnew <bar> term ~/bin/live-server <Enter>
 "}}}
 
 "{{{Real programers don't use TABs but use spaces
@@ -115,7 +121,7 @@ autocmd FileType cs nnoremap <buffer> <leader>r :normal viw <Enter> :YcmComplete
 
 "{{{Compiling and runing c# code
 "autocmd FileType cs nnoremap <buffer> <leader>c :vsp <bar> update <bar> term mcs -out:%:r.exe ./*.cs && mono ./%:r.exe<CR>i
-autocmd FileType cs nnoremap <buffer> <leader>c :vsp <bar> update <bar> term dotnet run<CR>i 
+autocmd FileType cs nnoremap <buffer> <leader>c :sp <bar> update <bar> term dotnet run<CR>i 
 "}}}
 
 "{{{Compiling and running java code
@@ -123,7 +129,15 @@ autocmd FileType java nnoremap <buffer> <leader>c :vsp <bar> update <bar> term j
 "}}}
 
 "{{{ Comiling and running c++ code
-autocmd FileType cpp nnoremap <buffer> <leader>c :vsp <bar> update <bar> term g++ *.cpp *.h && ./a.out<CR>i
+autocmd FileType cpp nnoremap <buffer> <leader>c :sp <bar> update <bar> term make && make run<CR>i
+"}}}
+
+"{{{Compiling and running ruby code
+autocmd FileType ruby nnoremap <buffer> <leader>c :vsp <bar> update <bar> term ruby2.5 %<CR>i
+"}}}
+
+"{{{ Compiling and running kotlin files
+autocmd Filetype kotlin nnoremap <buffer> <leader>c :sp <bar> update <bar> term kotlinc % -include-runtime -d %:r.jar && java -jar %:r.jar<Enter>i
 "}}}
 
 "{{{Disable stupid backup and swap files.
