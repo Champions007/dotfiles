@@ -109,6 +109,7 @@ set softtabstop=4
 set shiftwidth=4
 set shiftround
 set expandtab
+set wrap!
 "}}}
 
 "{{{Compaling and running Python code
