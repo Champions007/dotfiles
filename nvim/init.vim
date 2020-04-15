@@ -207,4 +207,6 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 "let g:OmniSharp_highlight_types = 3
 "let g:OmniSharp_server_stdio = 1
 let g:omni_sql_no_default_maps = 1
+let g:ycm_autoclose_preview_window_after_insertion = 1
+let g:ycm_autoclose_preview_window_after_completion = 1
 "}}}
