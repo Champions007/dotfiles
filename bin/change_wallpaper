@@ -1,0 +1,10 @@
+#!/bin/sh
+
+selected_wallpaper=$(ls $HOME/.config/bspwm/Wallpapers | dmenu -l 10 -p "Select a wallpaper:")
+
+echo "#!/bin/sh
+feh --bg-scale '$HOME/.config/bspwm/Wallpapers/$selected_wallpaper'" > $HOME/.config/bspwm/fehbg
+
+bspc wm -r
+
+tilix -e betterlockscreen -u $HOME/.config/bspwm/Wallpapers/$selected_wallpaper
