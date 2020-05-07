@@ -2,7 +2,7 @@
 
 # Open terminal
 super + Return
-    tilix
+    $TERMINAL
 
 # Volume controls
 XF86Audio{Mute,LowerVolume,RaiseVolume}
@@ -42,7 +42,7 @@ super + shift + d
 
 # Launch email client
 super + shift + m
-    tilix -e neomutt
+    $TERMINAL -e neomutt
 
 # Set a window state
 super + {s,t,f}
