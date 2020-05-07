@@ -1,13 +1,12 @@
 #!/bin/bash
 
-set_loadkeys()
+set_timezone()
 {
-    loadkeys lv
+    ln -sf /usr/share/zoneinfo/Europe/Riga /etc/localtime
 }
-
-update_locales()
+set_locales()
 {
-local locale_file=~/test
+local locale_file=/etc/locale.conf
 echo "LANG=en_US.UTF-8" >> $locale_file
 echo "LANGUAGE=" >> $locale_file
 echo "LC_CTYPE="en_US.UTF-8"" >> $locale_file
@@ -27,18 +26,163 @@ echo "LC_ALL=" >> $locale_file
 
 set_keyboard()
 {
-local keyboard_file=~/test
-echo "KEYMAP=lv" >> /etc/vconsole.conf
-
+local keyboard_file=/etc/vconsole.conf
+echo "KEYMAP=lv" >> $keyboard_file
 }
 
-update_xkeyboard()
+loadkeys()
 {
-    setxkbmap lv apostrophe
+    loadkeys lv
 }
 
+check_for_internet()
+{
+nc -z 8.8.8.8 53  >/dev/null 2>&1
+online=$?
+if [ $online -eq 0 ]; then
+    return 0
+else
+    return 1
+fi
+}
+
+edit_mirrorlist()
+{
+    vim /etc/pacman.d/mirrorlist && pacman -Syyy
+}
+pacstrap_packages()
+{
+    local base_packages="base base-devel linux linux-firmware vim"
+    pacstrap /mnt $base_packages
+}
+update_system_clock()
+{
+    timedatectl set-ntp true
+}
+
+edit_partions()
+{
+    lsblk
+    echo -e " What partion you want to edit (like dev/sxx): "
+    read partion_to_edit
+    fdisk $partion_to_edit
+}
+makefs_partions()
+{
+    lsblk
+    echo -e "Enter partion name for boot partion:"
+    read boot_partion_to_make
+    echo -e "Enter partion name for root partion:"
+    read root_partion_to_make
+    
+    mkfs.fat -F32 $boot_partion_to_make
+    mkfs.ext4 $root_partion_to_make
+}
+
+mount_made_partions()
+{
+    mount $root_partion_to_make /mnt
+    mkdir /mnt/boot
+    mount $boot_partion_to_make /mnt/boot
+}
+
+genfstab_file()
+{
+    genfstab -U /mnt >> /mnt/etc/fstab
+}
+
+change_archroot()
+{
+    arch-chroot /mnt
+}
+
+create_swapfile()
+{
+    fallocate -l 2GB /swapfile
+    chmod 600 /swapfile
+    mkswap /swapfile
+    swapon /swapfile
+    echo "" >> /etc/fstab
+    echo "/swapfile none swap defaults 0 0" >> /etc/fstab
+}
+hwclock_to_systemclock()
+{
+    hwclock --systohc
+}
+edit_locales()
+{
+    vim /etc/locale.gen && locale-gen
+}
+set_hostname()
+{
+    echo "archbox" >> /etc/hostname
+}
+set_hosts()
+{
+    echo "127.0.0.1     localhost" >> /etc/hosts
+    echo "::1       localhost" >> /etc/hosts
+    echo "127.0.1.1     archbox.localdomain     archbox" >> /etc/hosts
+}
+set_root_passwd()
+{
+    echo "Enter new root password:"
+    passwd
+}
+install_bootloader_and_tool_packages()
+{
+    local tools_for_booting_and_stuff="grub efibootmgr networkmanager network-manager-applet wireless_tools wpa_supplicant dialog os-prober mtools dosfstools linux-headers git pulseaudio pulseaudio-alsa xdg-utils xdg-user-dirs"
+    pacman -S $tools_for_booting_and_stuff
+}
+set_grub_bootloader()
+{
+    grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
+    grub-mkconfig -o /boot/grub/grub.cfg
+}
+enable_services()
+{
+    systemctl enable NetworkManager
+}
+add_user()
+{
+    useradd -mG wheel champions007
+    passwd champions007
+    EDITOR=vim visudo
+}
+exit_and_umount()
+{
+    umount -a
+}
 setup()
 {
-    "Sdsd"
+    check_for_internet
+    if [[ $? == 0 ]]; then
+        loadkeys &&\
+            update_system_clock &&\
+            edit_mirrorlist &&\
+            edit_partions &&\
+            makefs_partions &&\
+            mount_made_partions &&\
+            pacstrap_packages &&\
+            genfstab_file &&\
+            change_archroot &&\
+            create_swapfile &&\
+            set_timezone &&\
+            hwclock_to_systemclock &&\
+            edit_locales &&\
+            set_locales &&\
+            set_keyboard &&\
+            set_hostname &&\
+            set_hosts &&\
+            set_root_passwd &&\
+            install_bootloader_and_tool_packages &&\
+            set_grub_bootloader &&\
+            enable_services &&\
+            add_user &&\
+            exit_and_umount\
+            || echo "Error"
+    else
+        echo "No internet, check for internet connection"
+    fi
 }
+
 setup
