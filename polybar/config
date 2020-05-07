@@ -60,7 +60,7 @@ font-3 = siji:pixelsize=10;1
 
 modules-left = bspwm
 modules-center = mpd
-modules-right = filesystem xbacklight pulseaudio xkeyboard corona  updates memory cpu wlan eth  battery date 
+modules-right = filesystem xbacklight pulseaudio xkeyboard memory cpu wlan eth  battery date 
 
 tray-position = right
 tray-padding = 2
@@ -131,91 +131,6 @@ label-empty-padding = 2
 ;Separator in between workspaces
 ;label-separator = |
 
-[module/gmail]
-type = custom/script
-exec = ~/.config/polybar/gmail/launch.py
-tail = true
-click-left = xdg-open https://mail.google.com
-format-underline = #680e17
-
-[module/corona]
-type = custom/script
-format-underline = ${colors.primary}
-exec = ~/bin/corona
-interval = 86400
-
-[module/listmusic]
-type = custom/script
-format-underline = #1db954
-exec = ~/bin/listing
-format-prefix = "Music: "
-
-[module/updates]
-type = custom/script
-exec = ~/bin/available_updates
-format-underline = ${colors.primary}
-click-left = tilix -e sudo apt update
-click-right = tilix -e sudo apt upgrade
-interval = 86400
-
-
-[module/spotify1]
-type = custom/script
-interval = 1
-format-prefix =
-format = <label>
-exec = python3 ~/.config/polybar/spotify_status.py -f '{play_pause} {artist}: {song}'
-exec-if = pgrep -x spotify
-format-underline = #1db954
-label = %output%
-
-
-[module/i3]
-type = internal/i3
-format = <label-state> <label-mode>
-index-sort = true
-;wrapping-scroll = false
-strip-wsnumbers = true
-
-; ws-icons
-ws-icon-0 = 1;
-ws-icon-1 = 2;
-ws-icon-2 = 3;
-
-label-mode = %icon%
-
-
-; Only show workspaces on the same output as the bar
-;pin-workspaces = true
-
-label-mode-padding = 2
-label-mode-foreground = #000
-label-mode-background = ${colors.primary}
-
-; focused = Active workspace on focused monitor
-label-focused = %icon%
-label-focused-background = ${colors.background-alt}
-label-focused-underline= ${colors.primary}
-label-focused-padding = 2
-
-; unfocused = Inactive workspace on any monitor
-label-unfocused = %icon%
-label-unfocused-padding = 2
-
-; visible = Active workspace on unfocused monitor
-label-visible = %icon%
-label-visible-background = ${self.label-focused-background}
-label-visible-underline = ${self.label-focused-underline}
-label-visible-padding = ${self.label-focused-padding}
-
-; urgent = Workspace with urgency hint set
-label-urgent = %icon%
-label-urgent-background = ${colors.alert}
-label-urgent-padding = 2
-
-; Separator in between workspaces
-; label-separator = |
-
 
 [module/mpd]
 type = internal/mpd
@@ -252,7 +167,6 @@ bar-empty-foreground = ${colors.foreground-alt}
 inherit = module/xbacklight
 type = internal/backlight
 card = intel_backlight
-
 
 [module/cpu]
 type = internal/cpu
