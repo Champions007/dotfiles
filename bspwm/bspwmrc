@@ -8,7 +8,7 @@ $HOME/.config/bspwm/fehbg &&
 $HOME/.config/polybar/launch.sh &
 
 ###---Monitors Config---###
-bspc monitor eDP-1 -d 1 2 3 4 5
+bspc monitor -d 1 2 3 4 5
 
 ###---Monitor and Desktop Settings---###
 bspc config top_padding 32
