@@ -1,0 +1,38 @@
+#!/bin/bash
+
+aur_packages="bspwm-git dmenu-git sxhkd-git polybar-git"
+driver_packages="xf86-video-qxl xf86-input-libinput xdo"
+terminal_packages="termite"
+aur_fonts="ttf-ms-fonts"
+util_packages="feh rofi firefox libreoffice-fresh"
+
+symlink_folders()
+{
+ln -s ~/Github/dotfiles/bspwm ~/.config/bspwm
+ln -s ~/Github/dotfiles/sxhkd ~/.config/sxhkd
+ln -s ~/Github/dotfiles/polybar ~/.config/polybar
+}
+setxkeyboard()
+{
+setxkbmap -layout lv apostrophe
+}
+
+create_config_files()
+{
+echo "export TERMINAL=termite" >> ~/.bashrc
+echo "export EDITOR=vim" >> ~/.bashrc
+touch ~/.xinitrc
+echo "exec bspwm" >> ~/.xinitrc
+}
+
+install_packages()
+{
+sudo pacman -S $driver_packages $terminal_packages $util_packages
+}
+
+install_aur_packages()
+{
+git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si && yay -S $aur_packages && yay --editmenu -S $aur_fonts
+}
+
+install_packages && setxkeyboard && install_aur_packages && symlink_folders && create_config_files
