@@ -14,7 +14,7 @@ ln -s ~/Github/dotfiles/polybar ~/.config/polybar
 }
 setxkeyboard()
 {
-setxkbmap -layout lv apostrophe
+sudo localectl set-x11-keymap lv apostrophe
 }
 
 create_config_files()
@@ -35,5 +35,5 @@ install_aur_packages()
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si && yay -S $aur_packages && yay --editmenu -S $aur_fonts
 }
 
-install_packages && install_aur_packages && symlink_folders && create_config_files
-#setxkeyboard 
+install_packages && install_aur_packages && symlink_folders && create_config_files && setxkeyboard 
+
