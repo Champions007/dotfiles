@@ -35,4 +35,5 @@ install_aur_packages()
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si && yay -S $aur_packages && yay --editmenu -S $aur_fonts
 }
 
-install_packages && setxkeyboard && install_aur_packages && symlink_folders && create_config_files
+install_packages && install_aur_packages && symlink_folders && create_config_files
+#setxkeyboard 
