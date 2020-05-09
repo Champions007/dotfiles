@@ -1,19 +1,16 @@
 #!/bin/bash
 
-aur_packages="bspwm-git dmenu-git sxhkd-git polybar-git betterlockscreen"
+aur_packages="bspwm-git dmenu-git sxhkd-git polybar-git betterlockscreen tizonia-all"
 driver_packages="xf86-video-qxl xf86-input-libinput xdo xorg-server xorg-xinit"
 terminal_packages="termite"
 aur_fonts="ttf-ms-fonts"
-util_packages="feh rofi firefox libreoffice-fresh lxappearance-gtk3 arc-gtk-theme neofetch htop brightnessctl lshw mpd ncmpcpp"
+util_packages="feh rofi firefox libreoffice-fresh lxappearance-gtk3 arc-gtk-theme neofetch htop brightnessctl lshw meson"
 
 symlink_folders()
 {
 ln -s ~/Github/dotfiles/bspwm ~/.config/bspwm
 ln -s ~/Github/dotfiles/sxhkd ~/.config/sxhkd
 ln -s ~/Github/dotfiles/polybar ~/.config/polybar
-ln -s ~/Github/dotfiles/.mpd ~/.mpd
-rm -rf ~/.ncmpcpp
-ln -s ~/Github/dotfiles/.ncmpcpp ~/.ncmpcpp
 }
 setxkeyboard()
 {
