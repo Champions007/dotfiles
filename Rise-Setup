@@ -23,6 +23,8 @@ echo "export TERMINAL=termite" >> ~/.bashrc
 echo "export EDITOR=vim" >> ~/.bashrc
 touch ~/.xinitrc
 echo "exec bspwm" >> ~/.xinitrc
+mkdir ~/.config/termite
+sudo cp /etc/xdg/termite/config ~/.config/termite/
 }
 
 install_packages()
