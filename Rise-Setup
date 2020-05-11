@@ -4,7 +4,7 @@ aur_packages="bspwm-git dmenu-git sxhkd-git polybar-git betterlockscreen"
 driver_packages="xf86-video-qxl xf86-input-libinput xdo xorg-server xorg-xinit"
 terminal_packages="termite"
 aur_fonts="ttf-ms-fonts"
-util_packages="feh rofi firefox libreoffice-fresh lxappearance-gtk3 arc-gtk-theme neofetch htop brightnessctl lshw cmus"
+util_packages="feh rofi firefox libreoffice-fresh lxappearance-gtk3 arc-gtk-theme neofetch htop brightnessctl"
 
 symlink_folders()
 {
