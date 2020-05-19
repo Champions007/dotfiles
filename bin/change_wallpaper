@@ -7,4 +7,4 @@ feh --bg-scale '$HOME/.config/bspwm/Wallpapers/$selected_wallpaper'" > $HOME/.co
 
 bspc wm -r
 
-tilix -e betterlockscreen -u $HOME/.config/bspwm/Wallpapers/$selected_wallpaper
+termite -e "betterlockscreen -u $HOME/.config/bspwm/Wallpapers/$selected_wallpaper"
