@@ -176,7 +176,14 @@ map <F6> :setlocal spell! spelllang=lv<CR>
 " Mappings for latex.
 " autocmd Filetype tex inoremap ;sec \section{}<Enter><Enter><++><Esc>2kf}i 
 let g:table_mode_corner='|'
-"}}} 
+"}}}
+
+"{{{Git configuration
+nnoremap <buffer> <leader>gs :Gstatus<CR>
+nnoremap <buffer> <leader>ga :Gwrite<CR>
+nnoremap <buffer> <leader>gc :Gcommit<CR>
+nnoremap <buffer> <leader>gp :Gpush<CR>
+"}}}
 
 " {{{Plugin configuration
 
