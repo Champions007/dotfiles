@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-scale "$HOME/.config/bspwm/Wallpapers/train_mountains_art_130351_1366x768.jpg"
+feh --bg-scale '/home/champions007/.config/bspwm/Wallpapers/mountains_water_road_170254_1366x768.jpg'
