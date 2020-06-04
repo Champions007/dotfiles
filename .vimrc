@@ -24,6 +24,8 @@ Plug 'valloric/MatchTagAlways'
 Plug 'udalov/kotlin-vim'
 " Database plugins
 "Plug 'vim-scripts/dbext.vim'
+"Latex 
+Plug 'lervag/vimtex'
 " Utils
 "Plug 'OmniSharp/omnisharp-vim'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
