@@ -200,6 +200,8 @@ let g:UltiSnipsExpandTrigger="<S-Right>"
 let g:UltiSnipsJumpForwardTrigger="<S-Right>"
 let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 
+let g:tex_conceal = ""
+
 "set guifont=MesloLGSDZ\ Nerd\ Font\ Mono\ Regular\ 11 
 
 " adding to vim-airline's tabline
