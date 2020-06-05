@@ -161,8 +161,7 @@ autocmd Filetype rmd map <leader>c :!echo<space>"require(rmarkdown);<space>rende
 " auto compile lualatex file
 autocmd Filetype tex map <buffer> <leader>c :update <bar> !lualatex %<Enter> 
 " spellcheck zg = put words in good word list to undo that zug.
-map <F6> :setlocal spell! spelllang=lv<CR>
-
+autocmd Filetype tex map <buffer> <F6> :setlocal spell! spelllang=lv<CR>
 " let g:instant_markdown_autostart = 0
 " autocmd Filetype markdown map <buffer> <leader>c :update <bar> InstantMarkdownPreview<CR>
 
