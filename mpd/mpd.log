@@ -5252,3 +5252,157 @@ Mar 14 20:34 : client: [0] opened from 127.0.0.1:44896
 Mar 14 20:34 : client: [1] opened from 127.0.0.1:44898
 Mar 14 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Mar 14 23:54 : player: played "Monstercat Uncaged Vol. 8 (Album Mix)--UlxXTVhdEQ.opus"
+Jun 07 01:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 01:55 : config: option 'device' on line 13 was not recognized
+Jun 07 01:55 : client: [0] opened from 127.0.0.1:60034
+Jun 07 01:55 : client: [1] opened from 127.0.0.1:60038
+Jun 07 01:55 : update: removing _-lC1RiukfZJ8.opus
+Jun 07 01:55 : update: removing _-p-WiEbZ3oz4.opus
+Jun 07 01:55 : update: removing _-qj5ZahqBfFE.opus
+Jun 07 01:55 : update: removing _-ysNQdhe5G8A.opus
+Jun 07 01:55 : update: removing Aero Chord feat. DDARK - Shootin Stars [NCS Release]-PTF5xgT-pm8.opus
+Jun 07 01:55 : update: removing Asketa & Natan Chaim x Requenze x M.I.M.E - Warriors [NCS Release]-dVWlxP_Iu-4.opus
+Jun 07 01:55 : update: removing Careless - The Collection (Copyright Free Mix) OUT NOW!-sCQDDv4nEaE.opus
+Jun 07 01:55 : update: removing Cartoon - Más Y Más (feat. Daniel Levi) [NCS Release]-p0Bpkwvjeco.opus
+Jun 07 01:55 : update: removing Cartoon - On & On (feat. Daniel Levi) [NCS Release]-K4DyBUG242c.opus
+Jun 07 01:55 : update: removing Disfigure - Blank VIP (feat. Tara Louise) [NCS Release]-j5DCb1ycXyA.opus
+Jun 07 01:55 : update: removing Fight Back - The Collection (DJ Mix) [Copyright Free]-6s0Tk0nRmhU.opus
+Jun 07 01:55 : update: removing Monstercat Uncaged Vol. 8 (Album Mix)--UlxXTVhdEQ.opus
+Jun 07 01:55 : update: removing NEFFEX - 'Make It' (Official Video) 'Fight Back - The Collection' OUT NOW!-4GiAL4XBHjE.opus
+Jun 07 01:55 : update: removing NEFFEX - 💯(Count It) [Official Video]-5fbYzKmH0dI.opus
+Jun 07 01:55 : update: removing NEFFEX - A Feeling [Copyright Free]-Ltg5Em8fL_k.opus
+Jun 07 01:55 : update: removing NEFFEX - Alive [Copyright Free]-frHvmbdjN1s.opus
+Jun 07 01:55 : update: removing NEFFEX - All These Thoughts [Copyright Free]-uemkb0PpW3c.opus
+Jun 07 01:55 : update: removing NEFFEX - Backstage🤘💋 [Copyright Free]-HFAmjqY1DQg.opus
+Jun 07 01:55 : update: removing NEFFEX - Badass 💋 [Copyright Free]-rzElZuhGTpU.opus
+Jun 07 01:55 : update: removing NEFFEX - Baller 🍾  [Official Video]-42JyRjrLzjY.opus
+Jun 07 01:55 : update: removing NEFFEX - Best of Me (Barren Gates Remix) [Copyright Free]-iKXOr5ai8Y4.opus
+Jun 07 01:55 : update: removing NEFFEX - Best of Me [Official Video]-0Wa_CR0H8g4.opus
+Jun 07 01:55 : update: removing NEFFEX - Best of Me 🤘 [Copyright Free]-A4LiP8WFuG0.opus
+Jun 07 01:55 : update: removing NEFFEX - Blessed 🙏 [Copyright Free]-kOPwHheKfjY.opus
+Jun 07 01:55 : update: removing NEFFEX - Blow Up 💣 [Copyright Free]-dC1s0tSsTjo.opus
+Jun 07 01:55 : update: removing NEFFEX - Broken Dreams [Copyright Free]-7k95JzwHJB0.opus
+Jun 07 01:55 : update: removing NEFFEX - Bros B4 Hoes🔥 [Copyright Free]-4e3u78_0gbw.opus
+Jun 07 01:55 : update: removing NEFFEX - Can't Lose [Official Video]-yUo0e6135rU.opus
+Jun 07 01:55 : update: removing NEFFEX - Careless 💔 [Copyright Free]-Z6L4u2i97Rw.opus
+Jun 07 01:55 : update: removing NEFFEX - Chance [Copyright Free]-HMbZi5W88mI.opus
+Jun 07 01:55 : update: removing NEFFEX - Climb [Copyright Free]-qIMdZvCKyVA.opus
+Jun 07 01:55 : update: removing NEFFEX - Cold (Elijah Hill Remix) [Copyright Free]-x4kdXaU9Amw.opus
+Jun 07 01:55 : update: removing NEFFEX - Cold ❄️[Copyright Free]-WzQBAc8i73E.opus
+Jun 07 01:55 : update: removing NEFFEX - Cold in the Water [Copyright Free]-h0ELKp1Yxd0.opus
+Jun 07 01:55 : update: removing NEFFEX - Comeback 🔥[Copyright Free]-JOQUnRjdqKA.opus
+Jun 07 01:55 : update: removing NEFFEX - Coming For You 🔥 [Copyright Free]-xPi1O8g8zII.opus
+Jun 07 01:55 : update: removing NEFFEX - Crown 👑 [Copyright Free]-_MTbjHKtobY.opus
+Jun 07 01:55 : update: removing NEFFEX - Damn Gurl [Copyright Free]-MmIN3Wh1VeI.opus
+Jun 07 01:55 : update: removing NEFFEX - Dance Again💃  [Copyright Free]-nREyRWKjQEA.opus
+Jun 07 01:55 : update: removing NEFFEX - Dangerous [Copyright Free]-aKfO9o2IPJ0.opus
+Jun 07 01:55 : update: removing NEFFEX - Deep in the Game [Official Video]-KYUNx6T3bsQ.opus
+Jun 07 01:55 : update: removing NEFFEX - Deep Thoughts [Copyright Free]-rljVjHGUOvQ.opus
+Jun 07 01:55 : update: removing NEFFEX - Destiny (Equanimous Remix) [Copyright Free]-hcrQboSHDYo.opus
+Jun 07 01:55 : update: removing NEFFEX - Destiny 🙌   [Copyright Free]-24C8r8JupYY.opus
+Jun 07 01:55 : update: removing NEFFEX - Dream Catcher 🌠  [Copyright Free]-5pSqXv5_cGo.opus
+Jun 07 01:55 : update: removing NEFFEX - Fade Away [Copyright Free]-0Ol238EeS94.opus
+Jun 07 01:55 : update: removing NEFFEX - Fall Asleep [Copyright Free]-N5M7_eQszEs.opus
+Jun 07 01:55 : update: removing NEFFEX - Fear [Copyright Free]-3KROZATOIDA.opus
+Jun 07 01:55 : update: removing NEFFEX - Fight 👊 [Copyright Free]-1acVMrTZJoQ.opus
+Jun 07 01:55 : update: removing NEFFEX - Fight Back (Barren Gates Remix) [Copyright Free]-SWDbRGwYdLw.opus
+Jun 07 01:55 : update: removing NEFFEX - Fight Back (BLENDER Remix) [Copyright Free]-eAVPO-kGzoo.opus
+Jun 07 01:55 : update: removing NEFFEX - Fight Back (licka rish Remix) [Copyright Free]-jA8RFOCm17w.opus
+Jun 07 01:55 : update: removing NEFFEX - Fight Back (RMND Remix) [Copyright Free]-AQVVouI-Qtc.opus
+Jun 07 01:55 : update: removing NEFFEX - Fight Back [Official Video]-CYDP_8UTAus.opus
+Jun 07 01:55 : update: removing NEFFEX - First Time 🔥 [Copyright Free]-E_UOkyJ87Fc.opus
+Jun 07 01:55 : update: removing NEFFEX - Flirt 💋 [Copyright Free]-eIeWkOZKidM.opus
+Jun 07 01:55 : update: removing NEFFEX - Forget 'em [Official Video]-EJYFz25as1w.opus
+Jun 07 01:55 : update: removing NEFFEX - Gibberish [Official Video]-4bDlxthJKJ8.opus
+Jun 07 01:55 : update: removing NEFFEX - Go Hard [Copyright Free]-uIJ25Eme0dk.opus
+Jun 07 01:55 : update: removing NEFFEX - Gossip 💯 [Copyright Free]-Mquzb5OLdd0.opus
+Jun 07 01:55 : update: removing NEFFEX - GOT THIS 🔥[Empire Release]-Gtdz8WUmyEM.opus
+Jun 07 01:55 : update: removing NEFFEX - Grateful (Airmow Remix) [Copyright Free]-9fEXlE_sgS0.opus
+Jun 07 01:55 : update: removing NEFFEX - Grateful [Copyright Free]-83RUhxsfLWs.opus
+Jun 07 01:55 : update: removing NEFFEX - Graveyard [Copyright Free]-W7NWnqB8dQE.opus
+Jun 07 01:55 : update: removing NEFFEX - Greatest ☝️ [Copyright Free]-EZAnBqnQ_PU.m4a
+Jun 07 01:55 : update: removing NEFFEX - Hate It or Love It [Copyright Free]-Xcy0YdokYVI.opus
+Jun 07 01:55 : update: removing NEFFEX - Head Down 👊  [Copyright Free]-ErI60JSppdE.opus
+Jun 07 01:55 : update: removing NEFFEX - Here to Stay 🤘 ('Careless - The Collection' OUT NOW!) [Copyright Free]-JbSUwqaSrI8.opus
+Jun 07 01:55 : update: removing NEFFEX - Hey Yea 💽 🔥 [Copyright Free]-6icifNofvXc.opus
+Jun 07 01:55 : update: removing NEFFEX - Home 🏠 [Copyright Free]-7H5nxMtiDD8.opus
+Jun 07 01:55 : update: removing NEFFEX - Hometown 🔥 [Copyright Free]-t89lMHr844s.opus
+Jun 07 01:55 : update: removing NEFFEX - Hope [Copyright Free]-TXcg25C56xM.opus
+Jun 07 01:55 : update: removing NEFFEX - Hungover 🍻 [Copyright Free]-SJ5eW0xRgOA.opus
+Jun 07 01:55 : update: removing NEFFEX - Hype [Copyright Free]-DcfVqJV8-YM.opus
+Jun 07 01:55 : update: removing NEFFEX - It's Just Not Fair [Copyright Free]-eI2RJllMmqo.opus
+Jun 07 01:55 : update: removing NEFFEX - Judge ⚖  [Copyright Free]-pt3uBxtEErU.opus
+Jun 07 01:55 : update: removing NEFFEX - Keep Dreaming [Copyright Free]-UH0FfekpeHY.opus
+Jun 07 01:55 : update: removing NEFFEX - Let Me Down 🤘 [Copyright Free]-J1RW4kxutqU.opus
+Jun 07 01:55 : update: removing NEFFEX - Life ✨ [Copyright Free]-TPCaWQQo11A.opus
+Jun 07 01:55 : update: removing NEFFEX - Light It Up🔥🤘 [Copyright Free]-3uBus1Gduq4.opus
+Jun 07 01:55 : update: removing NEFFEX - Lit 🔥  [Copyright Free]-AHhiRc0Lnq4.opus
+Jun 07 01:55 : update: removing NEFFEX - Lose My Mind 🧠 [Copyright Free]-gJHBrbwM6vI.opus
+Jun 07 01:55 : update: removing NEFFEX - Lost Not Found [Copyright Free]-eyX0xjB0LjY.opus
+Jun 07 01:55 : update: removing NEFFEX - Lost Within [Copyright Free]-k3xkuDOzDVQ.opus
+Jun 07 01:55 : update: removing NEFFEX - Memories (Copyright Free)-W6x9gChKCBU.opus
+Jun 07 01:55 : update: removing NEFFEX - Merry Litmas [Copyright Free]-b1UqQ3X3GsQ.opus
+Jun 07 01:55 : update: removing NEFFEX - Mirror (BLENDER Remix) [Copyright Free]-yno64jrM7xU.opus
+Jun 07 01:55 : update: removing NEFFEX - Mirror [Copyright Free]-8PBbZKOHvGw.opus
+Jun 07 01:55 : update: removing NEFFEX - Myself [Copyright Free]-j2GKIjrkZz0.opus
+Jun 07 01:55 : update: removing NEFFEX - Mystify [Copyright Free]-WPTd7FGVNtw.opus
+Jun 07 01:55 : update: removing NEFFEX - Never Give Up ☝️ [Copyright Free]-_70Q-Xj3rEo.opus
+Jun 07 01:55 : update: removing NEFFEX - Never Hold Back 🤘 [Copyright Free]-IlSfsJ0oS34.opus
+Jun 07 01:55 : update: removing NEFFEX - Nightmare [Official Video]-0PgdTddSpsA.opus
+Jun 07 01:55 : update: removing NEFFEX - No Sleep 😈 [Copyright Free]-ec6e20BynJI.opus
+Jun 07 01:55 : update: removing NEFFEX - Numb (Official Video)-xzAhPbM0kVI.opus
+Jun 07 01:55 : update: removing NEFFEX - Numb [Copyright Free]-lJkEF0_QigU.opus
+Jun 07 01:55 : update: removing NEFFEX - One of a Kind 💎  [Copyright Free]-nXXmN_Eg02U.opus
+Jun 07 01:55 : update: removing NEFFEX - One Shot [Copyright Free]-998Kyw2FmU4.opus
+Jun 07 01:55 : update: removing NEFFEX - Party Like the 80s 🎉 [Copyright Free]-4OuXaOc6S_s.opus
+Jun 07 01:55 : update: removing NEFFEX - Play [Copyright Free]-aH6-bVcUXcg.opus
+Jun 07 01:55 : update: removing NEFFEX - PLAY [Official Music Video]-J7q5W3ABUp8.opus
+Jun 07 01:55 : update: removing NEFFEX - Pro 👠 [Copyright Free]-FKcDtEtT3wU.opus
+Jun 07 01:55 : update: removing NEFFEX - Pull Me Apart 💔 [Copyright Free]-V0OGoOtLmvM.opus
+Jun 07 01:55 : update: removing NEFFEX - R.I.P. [Copyright Free]-hyygwbVNI20.opus
+Jun 07 01:55 : update: removing NEFFEX - Ready to Go 🏍🤘[Copyright Free]-TY1SAjSkXvc.opus
+Jun 07 01:55 : update: removing NEFFEX - Roller Coaster 🎢 [Copyright Free]-ECe9MS48P7g.opus
+Jun 07 01:55 : update: removing NEFFEX - Rollin' With The Devil (Copyright Free)-BGdgBwSjLYQ.opus
+Jun 07 01:55 : update: removing NEFFEX - Rumors 💋 [Copyright Free]-kXptPzKNMq4.opus
+Jun 07 01:55 : update: removing NEFFEX - Runaway [Copyright Free]-K65tOxcboF4.opus
+Jun 07 01:55 : update: removing NEFFEX - Savage [Official Video]-Vgcec0e5h24.opus
+Jun 07 01:55 : update: removing NEFFEX - Save Me [Copyright Free]-bttuJLPw1o0.opus
+Jun 07 01:55 : update: removing NEFFEX - Self Made 👔 [Copyright Free]-5fSYGKYDK5E.opus
+Jun 07 01:55 : update: removing NEFFEX - So Fine 🌴 [Copyright Free]-FkSmdcJ5NP0.opus
+Jun 07 01:55 : update: removing NEFFEX - Sober 🤘 [Copyright Free]-Naa86j448W8.opus
+Jun 07 01:55 : update: removing NEFFEX - Soldier 🔥 [Copyright Free]-Ccsh_-Cucl4.opus
+Jun 07 01:55 : update: removing NEFFEX - Spartan (Fight Back - The Collection OUT NOW!) [Copyright Free]-lTJqN90HACU.opus
+Jun 07 01:55 : update: removing NEFFEX - Struggle [Copyright Free]-d4LI9WoNoNE.opus
+Jun 07 01:55 : update: removing NEFFEX - Summer ☀️ [Copyright Free]-TAmhVFA1d8Q.opus
+Jun 07 01:55 : update: removing NEFFEX - Summertime ☀️[Copyright Free]-MPQ-bTveKKY.opus
+Jun 07 01:55 : update: removing NEFFEX - Take Me Away [Copyright Free]-qfLikKZ-Kgc.opus
+Jun 07 01:55 : update: removing NEFFEX - Take Me Back Again [Copyright Free]-Pdj_RtBHkKo.opus
+Jun 07 01:55 : update: removing NEFFEX - The Show [Copyright Free]-8wsPxovpLEo.opus
+Jun 07 01:55 : update: removing NEFFEX - Things Are Gonna Get Better 👊  [Copyright Free]-FHW7rIRQl38.opus
+Jun 07 01:55 : update: removing NEFFEX - Tonight 🔮 [Copyright Free]-q2IvHgXTw68.opus
+Jun 07 01:55 : update: removing NEFFEX - Torn Apart  [Copyright Free]-eq09o2BL3JM.opus
+Jun 07 01:55 : update: removing NEFFEX - Touch the Sky 🙌[Copyright Free]-L3jmQUf6ms4.opus
+Jun 07 01:55 : update: removing NEFFEX - Trapped in a Nightmare [Copyright Free]-RbHtywo75RI.opus
+Jun 07 01:55 : update: removing NEFFEX - Trust Me [Copyright Free]-4mNJbeKlvik.opus
+Jun 07 01:55 : update: removing NEFFEX - Unstoppable 👊 (Copyright Free)-xGTju1I-xFU.opus
+Jun 07 01:55 : update: removing NEFFEX - Watch Me 🏆 [Copyright Free]-ib9HZzZhG7I.m4a
+Jun 07 01:55 : update: removing NEFFEX - We Could Do It All [Copyright Free]-Q2JEU-W-mdo.opus
+Jun 07 01:55 : update: removing NEFFEX - Welcome to the City 🌆 [Copyright Free]-JhEhfzPw_Og.opus
+Jun 07 01:55 : update: removing NEFFEX - What's up [Copyright Free]-Vqri94Kg0II.opus
+Jun 07 01:55 : update: removing NEFFEX - When Everything is Gone (Best of Me the Collection OUT NOW!) [Copyright Free]-rnD3_kDsEVY.opus
+Jun 07 01:55 : update: removing NEFFEX - Who The F_k Is NEFFEX! 🔥 [Copyright Free]-rB34EsdRlA4.opus
+Jun 07 01:55 : update: removing NEFFEX - With You [Copyright Free]-A8yJka6yp2E.opus
+Jun 07 01:55 : update: removing NEFFEX - Woah 💰 [Copyright Free]-O6xFfpkEZio.opus
+Jun 07 01:55 : update: removing NEFFEX- Failure 🔥 [Copyright Free]-YKqDiNJJPXk.opus
+Jun 07 01:55 : update: removing Tristam - Questions [Monstercat Release]-LeVmlVQ9uQI.opus
+Jun 07 01:55 : update: removing Vanze - Survive (feat. Neon Dreams) [NCS Release]-cvl8e2se8Q4.opus
+Jun 07 01:55 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:55 : client: [1] closed
+Jun 07 01:55 : client: [2] opened from 127.0.0.1:60042
+Jun 07 01:55 : client: [2] closed
+Jun 07 01:55 : client: [3] opened from 127.0.0.1:60046
+Jun 07 01:55 : client: [3] closed
+Jun 07 01:55 : client: [4] opened from 127.0.0.1:60050
+Jun 07 01:55 : client: [4] closed
+Jun 07 01:55 : client: [5] opened from 127.0.0.1:60054
+Jun 07 01:55 : client: [5] closed
