@@ -5406,3 +5406,1087 @@ Jun 07 01:55 : client: [4] opened from 127.0.0.1:60050
 Jun 07 01:55 : client: [4] closed
 Jun 07 01:55 : client: [5] opened from 127.0.0.1:60054
 Jun 07 01:55 : client: [5] closed
+Jun 07 01:57 : client: [6] opened from 127.0.0.1:60060
+Jun 07 01:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 01:58 : client: [6] closed
+Jun 07 02:02 : client: [7] opened from 127.0.0.1:60098
+Jun 07 02:02 : update: added /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 02:02 : client: [7] closed
+Jun 07 02:02 : client: [8] opened from 127.0.0.1:60102
+Jun 07 02:02 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : client: [8] closed
+Jun 07 02:04 : client: [9] opened from 127.0.0.1:60108
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:05 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:10 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:13 : client: [10] opened from 127.0.0.1:60180
+Jun 07 02:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:16 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:16 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:16 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:18 : client: [10] closed
+Jun 07 02:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:18 : config: option 'device' on line 13 was not recognized
+Jun 07 02:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:18 : client: [0] opened from 127.0.0.1:60244
+Jun 07 02:18 : client: [1] opened from 127.0.0.1:60246
+Jun 07 02:18 : client: [2] opened from 127.0.0.1:60250
+Jun 07 02:18 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:18 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:18 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:18 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:18 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:20 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:21 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:21 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:21 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:21 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:21 : client: [2] closed
+Jun 07 02:22 : client: [3] opened from 127.0.0.1:60256
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:22 : client: [3] closed
+Jun 07 02:22 : client: [4] opened from 127.0.0.1:60260
+Jun 07 02:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:23 : client: [4] closed
+Jun 07 02:23 : client: [5] opened from 127.0.0.1:60264
+Jun 07 02:23 : client: [5] closed
+Jun 07 02:24 : client: [6] opened from 127.0.0.1:60268
+Jun 07 02:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:24 : client: [6] closed
+Jun 07 02:26 : client: [7] opened from 127.0.0.1:60354
+Jun 07 02:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:27 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:27 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:27 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:27 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:28 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:28 : client: [7] closed
+Jun 07 02:29 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:29 : config: option 'device' on line 13 was not recognized
+Jun 07 02:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:29 : client: [0] opened from 127.0.0.1:60386
+Jun 07 02:29 : client: [1] opened from 127.0.0.1:60388
+Jun 07 02:30 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:39 : config: option 'device' on line 13 was not recognized
+Jun 07 02:39 : client: [0] opened from 127.0.0.1:60822
+Jun 07 02:39 : client: [1] opened from 127.0.0.1:60826
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:39 : client: [1] closed
+Jun 07 02:46 : client: [2] opened from 127.0.0.1:60834
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:47 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:47 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:47 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:47 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:47 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:47 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:48 : client: [2] closed
+Jun 07 02:50 : client: [3] opened from 127.0.0.1:60882
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:50 : client: [3] closed
+Jun 07 02:51 : client: [4] opened from 127.0.0.1:60886
+Jun 07 02:51 : client: [4] closed
+Jun 07 02:51 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:51 : config: option 'device' on line 13 was not recognized
+Jun 07 02:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:51 : client: [0] opened from 127.0.0.1:60908
+Jun 07 02:52 : client: [1] opened from 127.0.0.1:60912
+Jun 07 02:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:53 : client: [1] closed
+Jun 07 02:55 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 02:59 : client: [2] opened from 127.0.0.1:60922
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 02:59 : client: [2] closed
+Jun 07 03:00 : client: [3] opened from 127.0.0.1:60928
+Jun 07 03:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:00 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:00 : exception: nested: libopus error: corrupted stream
+Jun 07 03:00 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:00 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:00 : exception: nested: libopus error: corrupted stream
+Jun 07 03:00 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:00 : client: [3] closed
+Jun 07 03:01 : client: [4] opened from 127.0.0.1:60932
+Jun 07 03:01 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:01 : exception: nested: libopus error: corrupted stream
+Jun 07 03:01 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:01 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:01 : exception: nested: libopus error: corrupted stream
+Jun 07 03:01 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:01 : exception: nested: libopus error: corrupted stream
+Jun 07 03:01 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:01 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:01 : exception: nested: libopus error: corrupted stream
+Jun 07 03:01 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:01 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:01 : exception: nested: libopus error: corrupted stream
+Jun 07 03:01 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : client: [5] opened from 127.0.0.1:60936
+Jun 07 03:02 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:02 : exception: nested: libopus error: corrupted stream
+Jun 07 03:02 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:02 : client: [5] closed
+Jun 07 03:03 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:03 : client: [4] closed
+Jun 07 03:03 : client: [6] opened from 127.0.0.1:60944
+Jun 07 03:04 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:05 : exception: Failed to open audio output
+Jun 07 03:06 : client: [6] closed
+Jun 07 03:06 : client: [7] opened from 127.0.0.1:60950
+Jun 07 03:06 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:06 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:07 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:07 : client: [7] closed
+Jun 07 03:07 : client: [8] opened from 127.0.0.1:60954
+Jun 07 03:07 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:07 : exception: nested: libopus error: corrupted stream
+Jun 07 03:07 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:07 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:07 : exception: nested: libopus error: corrupted stream
+Jun 07 03:07 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:07 : exception: nested: libopus error: corrupted stream
+Jun 07 03:07 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:07 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:07 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : client: [8] closed
+Jun 07 03:08 : config: option 'device' on line 13 was not recognized
+Jun 07 03:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:08 : client: [0] opened from 127.0.0.1:60966
+Jun 07 03:08 : client: [1] opened from 127.0.0.1:60970
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:08 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:08 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:08 : exception: nested: libopus error: corrupted stream
+Jun 07 03:09 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:09 : exception: nested: libopus error: corrupted stream
+Jun 07 03:09 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:09 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:09 : exception: nested: libopus error: corrupted stream
+Jun 07 03:09 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:09 : exception: nested: libopus error: corrupted stream
+Jun 07 03:09 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:09 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:09 : exception: nested: libopus error: corrupted stream
+Jun 07 03:09 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:10 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:10 : exception: nested: libopus error: corrupted stream
+Jun 07 03:10 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:10 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:10 : exception: nested: libopus error: corrupted stream
+Jun 07 03:10 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:10 : exception: nested: libopus error: corrupted stream
+Jun 07 03:10 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:10 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:10 : exception: nested: libopus error: corrupted stream
+Jun 07 03:10 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:11 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:11 : exception: nested: libopus error: corrupted stream
+Jun 07 03:11 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:13 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:13 : exception: nested: libopus error: corrupted stream
+Jun 07 03:13 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:13 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:13 : exception: nested: libopus error: corrupted stream
+Jun 07 03:13 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:13 : exception: nested: libopus error: corrupted stream
+Jun 07 03:13 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:13 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:13 : exception: nested: libopus error: corrupted stream
+Jun 07 03:13 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:13 : client: [1] closed
+Jun 07 03:14 : client: [2] opened from 127.0.0.1:60980
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:14 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:14 : exception: nested: libopus error: corrupted stream
+Jun 07 03:14 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:14 : client: [2] closed
+Jun 07 03:15 : client: [3] opened from 127.0.0.1:60984
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:15 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:15 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:15 : exception: nested: libopus error: corrupted stream
+Jun 07 03:16 : client: [3] closed
+Jun 07 03:18 : client: [4] opened from 127.0.0.1:60996
+Jun 07 03:18 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:18 : ffmpeg/ogg: 950 bytes of comment header remain
+Jun 07 03:18 : ffmpeg/ogg: truncated comment header, 4 comments not found
+Jun 07 03:18 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:18 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : client: [4] closed
+Jun 07 03:19 : client: [5] opened from 127.0.0.1:32772
+Jun 07 03:19 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:19 : ffmpeg/ogg: 950 bytes of comment header remain
+Jun 07 03:19 : ffmpeg/ogg: truncated comment header, 4 comments not found
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:19 : client: [5] closed
+Jun 07 03:20 : client: [6] opened from 127.0.0.1:32776
+Jun 07 03:20 : update: removing TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:20 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:20 : exception: nested: Failed to open '/home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus': No such file or directory
+Jun 07 03:20 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:20 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:20 : exception: nested: Failed to open '/home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus': No such file or directory
+Jun 07 03:20 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:20 : exception: nested: Failed to open '/home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus': No such file or directory
+Jun 07 03:20 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:20 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:20 : exception: nested: Failed to open '/home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus': No such file or directory
+Jun 07 03:20 : client: [6] closed
+Jun 07 03:20 : client: [7] opened from 127.0.0.1:32784
+Jun 07 03:20 : update: added /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:20 : client: [7] closed
+Jun 07 03:21 : client: [8] opened from 127.0.0.1:32794
+Jun 07 03:21 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:22 : client: [8] closed
+Jun 07 03:22 : client: [9] opened from 127.0.0.1:32798
+Jun 07 03:22 : client: [9] closed
+Jun 07 03:23 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:24 : config: option 'device' on line 13 was not recognized
+Jun 07 03:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:24 : client: [0] opened from 127.0.0.1:32906
+Jun 07 03:24 : client: [1] opened from 127.0.0.1:32910
+Jun 07 03:24 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:24 : exception: nested: libopus error: corrupted stream
+Jun 07 03:24 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:24 : client: [1] closed
+Jun 07 03:28 : client: [2] opened from 127.0.0.1:32918
+Jun 07 03:28 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:28 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:28 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:28 : client: [2] closed
+Jun 07 03:33 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 07 03:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:35 : config: option 'device' on line 13 was not recognized
+Jun 07 03:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:35 : client: [0] opened from 127.0.0.1:33116
+Jun 07 03:35 : client: [1] opened from 127.0.0.1:33120
+Jun 07 03:35 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 03:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:36 : client: [1] closed
+Jun 07 03:38 : client: [2] opened from 127.0.0.1:33124
+Jun 07 03:38 : update: updating /TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 07 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 07 03:39 : client: [2] closed
+Jun 07 03:39 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 02:49 : config: option 'device' on line 13 was not recognized
+Jun 08 02:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 02:49 : client: [0] opened from 127.0.0.1:49656
+Jun 08 02:49 : client: [1] opened from 127.0.0.1:49660
+Jun 08 02:49 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 02:49 : update: added /Virtual Riot - Save Yourself.mp3
+Jun 08 02:49 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 02:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 02:50 : player: played "Virtual Riot - Save Yourself.mp3"
+Jun 08 02:50 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:50 : exception: nested: libopus error: corrupted stream
+Jun 08 02:50 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:50 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:50 : exception: nested: libopus error: corrupted stream
+Jun 08 02:50 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:50 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:50 : exception: nested: libopus error: corrupted stream
+Jun 08 02:50 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:52 : client: [0] closed
+Jun 08 02:52 : client: [2] opened from 127.0.0.1:49692
+Jun 08 02:53 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:53 : exception: nested: libopus error: corrupted stream
+Jun 08 02:53 : player: played "Virtual Riot - Save Yourself.mp3"
+Jun 08 02:53 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:53 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:53 : exception: nested: libopus error: corrupted stream
+Jun 08 02:54 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:54 : client: [3] opened from 127.0.0.1:49698
+Jun 08 02:54 : client: [1] closed
+Jun 08 02:54 : client: [4] opened from 127.0.0.1:49702
+Jun 08 02:54 : client: [2] closed
+Jun 08 02:54 : client: [3] closed
+Jun 08 02:54 : client: [5] opened from 127.0.0.1:49706
+Jun 08 02:54 : client: [4] closed
+Jun 08 02:54 : client: [6] opened from 127.0.0.1:49710
+Jun 08 02:54 : client: [5] closed
+Jun 08 02:54 : client: [7] opened from 127.0.0.1:49714
+Jun 08 02:54 : client: [6] closed
+Jun 08 02:54 : client: [8] opened from 127.0.0.1:49718
+Jun 08 02:54 : client: [7] closed
+Jun 08 02:54 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 02:54 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:54 : exception: nested: libopus error: corrupted stream
+Jun 08 02:54 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:54 : client: [9] opened from 127.0.0.1:49720
+Jun 08 02:54 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:54 : exception: nested: libopus error: corrupted stream
+Jun 08 02:54 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:54 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:54 : exception: nested: libopus error: corrupted stream
+Jun 08 02:54 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:54 : exception: nested: libopus error: corrupted stream
+Jun 08 02:54 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:54 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:54 : exception: nested: libopus error: corrupted stream
+Jun 08 02:54 : client: [9] closed
+Jun 08 02:54 : client: [10] opened from 127.0.0.1:49722
+Jun 08 02:55 : client: [10] closed
+Jun 08 02:55 : client: [11] opened from 127.0.0.1:49726
+Jun 08 02:57 : client: [11] closed
+Jun 08 02:57 : client: [12] opened from 127.0.0.1:49728
+Jun 08 02:57 : client: [12] closed
+Jun 08 02:57 : client: [13] opened from 127.0.0.1:49730
+Jun 08 02:57 : client: [13] closed
+Jun 08 02:57 : client: [14] opened from 127.0.0.1:49732
+Jun 08 02:57 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:57 : exception: nested: libopus error: corrupted stream
+Jun 08 02:57 : player: played "Virtual Riot - Save Yourself.mp3"
+Jun 08 02:57 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:57 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:57 : exception: nested: libopus error: corrupted stream
+Jun 08 02:57 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:58 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:58 : exception: nested: libopus error: corrupted stream
+Jun 08 02:58 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:58 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:58 : exception: nested: libopus error: corrupted stream
+Jun 08 02:59 : exception: Failed to decode /home/champions007/Music/TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 02:59 : exception: nested: libopus error: corrupted stream
+Jun 08 02:59 : player: played "TheFatRat - No No No-d0uFvhCHWCo.opus"
+Jun 08 02:59 : client: [8] closed
+Jun 08 02:59 : client: [15] opened from 127.0.0.1:49736
+Jun 08 02:59 : client: [15] closed
+Jun 08 02:59 : player: played "Virtual Riot - Save Yourself.mp3"
+Jun 08 03:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 03:02 : config: option 'device' on line 13 was not recognized
+Jun 08 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 03:02 : client: [0] opened from 127.0.0.1:50038
+Jun 08 03:02 : client: [1] opened from 127.0.0.1:50042
+Jun 08 03:02 : update: removing TheFatRat - No No No-d0uFvhCHWCo.opus
+Jun 08 03:02 : update: added Uprising/Teminite - Ascent (50K FREE).mp3
+Jun 08 03:02 : update: added Uprising/Teminite - Crushing On You (ft. Georgia Denham).mp3
+Jun 08 03:02 : update: added Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3
+Jun 08 03:02 : update: added Uprising/Teminite - Uprising.mp3
+Jun 08 03:02 : update: added Uprising/Teminite & Said - Make Me.mp3
+Jun 08 03:02 : update: added Uprising/Teminite & Evilwave - Rattlesnake.mp3
+Jun 08 03:02 : update: added Uprising/Teminite - Party Time (100K FREEBIE).mp3
+Jun 08 03:02 : update: added Uprising/Teminite X Chime X PsoGnar - Monster.mp3
+Jun 08 03:02 : update: added Uprising/Teminite - A New Dawn.mp3
+Jun 08 03:02 : update: added Uprising/Teminite - State Of Mind.mp3
+Jun 08 03:02 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:02 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 03:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:04 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:12 : player: played "Uprising/Teminite X Chime X PsoGnar - Monster.mp3"
+Jun 08 03:17 : player: played "Uprising/Teminite - A New Dawn.mp3"
+Jun 08 03:22 : client: [1] closed
+Jun 08 03:22 : client: [2] opened from 127.0.0.1:50484
+Jun 08 03:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:23 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:27 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:27 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:33 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:33 : update: removing Virtual Riot - Save Yourself.mp3
+Jun 08 03:33 : update: added Virtual Riot/Virtual Riot - Save Yourself.mp3
+Jun 08 03:33 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:33 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : update: removing Uprising/Teminite - Uprising.mp3
+Jun 08 03:34 : update: removing Uprising/Teminite - State Of Mind.mp3
+Jun 08 03:34 : update: removing Uprising/Teminite - A New Dawn.mp3
+Jun 08 03:34 : update: removing Uprising/Teminite - Party Time (100K FREEBIE).mp3
+Jun 08 03:34 : update: removing Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3
+Jun 08 03:34 : update: removing Uprising/Teminite & Said - Make Me.mp3
+Jun 08 03:34 : update: removing Uprising/Teminite & Evilwave - Rattlesnake.mp3
+Jun 08 03:34 : update: removing Uprising/Teminite X Chime X PsoGnar - Monster.mp3
+Jun 08 03:34 : update: removing Uprising/Teminite - Crushing On You (ft. Georgia Denham).mp3
+Jun 08 03:34 : update: removing Uprising/Teminite - Ascent (50K FREE).mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - Ascent (50K FREE).mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - Crushing On You (ft. Georgia Denham).mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - Uprising.mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite & Said - Make Me.mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite & Evilwave - Rattlesnake.mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - Party Time (100K FREEBIE).mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite X Chime X PsoGnar - Monster.mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - A New Dawn.mp3
+Jun 08 03:34 : update: added Teminite/Uprising/Teminite - State Of Mind.mp3
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:35 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:35 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:35 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:36 : client: [2] closed
+Jun 08 03:36 : player: played "Virtual Riot/Virtual Riot - Save Yourself.mp3"
+Jun 08 03:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 03:38 : config: option 'device' on line 13 was not recognized
+Jun 08 03:38 : exception: Failed to decode /home/champions007/Music/Virtual Riot/Virtual Riot - Save Yourself.mp3
+Jun 08 03:38 : exception: nested: Failed to open '/home/champions007/Music/Virtual Riot/Virtual Riot - Save Yourself.mp3': No such file or directory
+Jun 08 03:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 03:38 : player: played "Virtual Riot/Virtual Riot - Save Yourself.mp3"
+Jun 08 03:38 : client: [0] opened from 127.0.0.1:50840
+Jun 08 03:38 : client: [1] opened from 127.0.0.1:50844
+Jun 08 03:38 : update: removing Virtual Riot/Virtual Riot - Save Yourself.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Virtual Riot - Wallmonger.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Iteration (Interlude).mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Hysteria.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/GOAT.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Virtual Riot - Save Yourself.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Virtual Riot - Self Checkout.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Virtual Riot - The Recall.mp3
+Jun 08 03:38 : update: added Virtual Riot/Save Yourself EP/Insides.mp3
+Jun 08 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 03:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:43 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:43 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:43 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 08 03:45 : client: [1] closed
+Jun 08 03:45 : player: played "Virtual Riot/Save Yourself EP/Hysteria.mp3"
