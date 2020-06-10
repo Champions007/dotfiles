@@ -7,6 +7,7 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.vim/plugged')
 " Syntax
+Plug 'ycm-core/YouCompleteMe'
 "Themes
 Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'
@@ -45,7 +46,6 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'altercation/vim-colors-solarized'
 Plug 'ryanoasis/vim-devicons'
 " Plug 'Shougo/deoplete.nvim', {'do': ':UpdateRemotePlugins' }
-Plug 'ycm-core/YouCompleteMe'
 " Plug 'vimwiki/vimwiki'
 Plug 'turbio/bracey.vim'
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
