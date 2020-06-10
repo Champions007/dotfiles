@@ -6490,3 +6490,123 @@ Jun 08 03:44 : exception: Failed to open /home/champions007/.config/mpd/playlist
 Jun 08 03:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
 Jun 08 03:45 : client: [1] closed
 Jun 08 03:45 : player: played "Virtual Riot/Save Yourself EP/Hysteria.mp3"
+Jun 09 03:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 03:33 : config: option 'device' on line 13 was not recognized
+Jun 09 03:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 03:33 : client: [0] opened from 127.0.0.1:59418
+Jun 09 03:33 : client: [1] opened from 127.0.0.1:59422
+Jun 09 03:33 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 03:34 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:38 : client: [0] closed
+Jun 09 03:38 : client: [2] opened from 127.0.0.1:59476
+Jun 09 03:39 : client: [2] closed
+Jun 09 03:39 : client: [3] opened from 127.0.0.1:59478
+Jun 09 03:40 : client: [3] closed
+Jun 09 03:40 : client: [4] opened from 127.0.0.1:59494
+Jun 09 03:41 : client: [4] closed
+Jun 09 03:41 : client: [5] opened from 127.0.0.1:59496
+Jun 09 03:42 : client: [6] opened from 127.0.0.1:59500
+Jun 09 03:42 : client: [6] closed
+Jun 09 03:42 : client: [7] opened from 127.0.0.1:59504
+Jun 09 03:42 : client: [7] closed
+Jun 09 03:44 : client: [8] opened from 127.0.0.1:59510
+Jun 09 03:44 : client: [8] closed
+Jun 09 03:45 : player: played "Virtual Riot/Save Yourself EP/Hysteria.mp3"
+Jun 09 03:46 : client: [9] opened from 127.0.0.1:59514
+Jun 09 03:46 : client: [9] closed
+Jun 09 03:47 : client: [5] closed
+Jun 09 03:47 : client: [10] opened from 127.0.0.1:59516
+Jun 09 03:49 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:51 : client: [1] closed
+Jun 09 03:51 : player: played "Teminite/Uprising/Teminite - Party Time (100K FREEBIE).mp3"
+Jun 09 03:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 03:54 : config: option 'device' on line 13 was not recognized
+Jun 09 03:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 03:54 : client: [0] opened from 127.0.0.1:59920
+Jun 09 03:54 : client: [1] opened from 127.0.0.1:59924
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Diamond Eyes - Hold On [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/ÉWN - The Light [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Lost Sky - Dreams pt.II (feat. Sara Skinner) [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Tobu - Return To The Wild [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Egzod - Departure (feat. evOke) [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Elektronomia - Heaven [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Jim Yosef & Valentina Franco - Chasing Dreams [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Unknown Brain - Waiting (feat. Lox Chatterbox, BLVKSTN & Salvo) [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/JPB - All Stops Now (feat. Soundr) [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Axol & Max Hurrell - Shots Fired [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/WiDE AWAKE - Something More [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Distrion & Electro - Light - Drakkar [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Feint - Shockwave (feat. Heather Sommer) [NCS Release].mp3
+Jun 09 03:54 : update: added NCS/NCS Reloaded/Koven - Never Have I Felt This [NCS Release].mp3
+Jun 09 03:54 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:55 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 03:56 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:58 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 03:59 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:00 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:01 : client: [1] closed
+Jun 09 04:02 : player: played "NCS/NCS Reloaded/Axol & Max Hurrell - Shots Fired [NCS Release].mp3"
+Jun 09 04:03 : client: [2] opened from 127.0.0.1:59950
+Jun 09 04:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : update: added Private/Anime OP music/Angel Beats - My Song.mp3
+Jun 09 04:05 : update: added Private/Anime OP music/Angels of Death OST.mp3
+Jun 09 04:05 : update: added Private/Anime OP music/01 Skyclad no Kansokusha.mp3
+Jun 09 04:05 : update: added Private/Anime OP music/Angel Beats - Brave Song.mp3
+Jun 09 04:05 : update: added Private/Anime OP music/Angel Beats - My Soul Your Beats.mp3
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:05 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:10 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:10 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 04:10 : client: [2] closed
+Jun 09 04:10 : client: [3] opened from 127.0.0.1:59990
+Jun 09 04:11 : client: [3] closed
+Jun 09 04:11 : player: played "Virtual Riot/Save Yourself EP/GOAT.mp3"
+Jun 09 15:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 15:11 : config: option 'device' on line 13 was not recognized
+Jun 09 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 15:11 : client: [0] opened from 127.0.0.1:43194
+Jun 09 15:11 : client: [1] opened from 127.0.0.1:43198
+Jun 09 15:11 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 15:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:17 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:20 : player: played "NCS/NCS Reloaded/Tobu - Return To The Wild [NCS Release].mp3"
+Jun 09 15:22 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:25 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:26 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:39 : player: played "NCS/NCS Reloaded/Jim Yosef & Valentina Franco - Chasing Dreams [NCS Release].mp3"
+Jun 09 15:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:46 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:48 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:48 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 09 15:56 : player: played "Teminite/Uprising/Teminite - Crushing On You (ft. Georgia Denham).mp3"
+Jun 09 16:06 : player: played "Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3"
+Jun 09 16:23 : client: [1] closed
+Jun 09 16:23 : player: played "Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3"
+Jun 10 11:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 11:48 : config: option 'device' on line 13 was not recognized
+Jun 10 11:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 11:48 : client: [0] opened from 127.0.0.1:51288
+Jun 10 11:48 : client: [1] opened from 127.0.0.1:51292
+Jun 10 11:48 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 10 11:49 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 10 11:49 : client: [1] closed
+Jun 10 11:49 : player: played "Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3"

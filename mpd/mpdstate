@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 98
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 0
-time: 85.055000
+current: 30
+time: 15.230000
 random: 0
 repeat: 0
 single: 1
@@ -16,4 +16,31 @@ playlist_begin
 1:Virtual Riot/Save Yourself EP/Virtual Riot - Self Checkout.mp3
 2:Virtual Riot/Save Yourself EP/Virtual Riot - The Recall.mp3
 3:Virtual Riot/Save Yourself EP/Virtual Riot - Save Yourself.mp3
+4:Virtual Riot/Save Yourself EP/Iteration (Interlude).mp3
+5:Virtual Riot/Save Yourself EP/Insides.mp3
+6:Teminite/Uprising/Teminite - Ascent (50K FREE).mp3
+7:Teminite/Uprising/Teminite - Party Time (100K FREEBIE).mp3
+8:NCS/NCS Reloaded/Tobu - Return To The Wild [NCS Release].mp3
+9:NCS/NCS Reloaded/Diamond Eyes - Hold On [NCS Release].mp3
+10:NCS/NCS Reloaded/JPB - All Stops Now (feat. Soundr) [NCS Release].mp3
+11:NCS/NCS Reloaded/Egzod - Departure (feat. evOke) [NCS Release].mp3
+12:NCS/NCS Reloaded/Axol & Max Hurrell - Shots Fired [NCS Release].mp3
+13:Teminite/Uprising/Teminite - A New Dawn.mp3
+14:Private/Anime OP music/01 Skyclad no Kansokusha.mp3
+15:Private/Anime OP music/Angel Beats - My Soul Your Beats.mp3
+16:Private/Anime OP music/Angel Beats - Brave Song.mp3
+17:Private/Anime OP music/Angel Beats - My Song.mp3
+18:Private/Anime OP music/Angels of Death OST.mp3
+19:Virtual Riot/Save Yourself EP/GOAT.mp3
+20:NCS/NCS Reloaded/Elektronomia - Heaven [NCS Release].mp3
+21:NCS/NCS Reloaded/Koven - Never Have I Felt This [NCS Release].mp3
+22:NCS/NCS Reloaded/Feint - Shockwave (feat. Heather Sommer) [NCS Release].mp3
+23:NCS/NCS Reloaded/Distrion & Electro - Light - Drakkar [NCS Release].mp3
+24:NCS/NCS Reloaded/ÉWN - The Light [NCS Release].mp3
+25:NCS/NCS Reloaded/Jim Yosef & Valentina Franco - Chasing Dreams [NCS Release].mp3
+26:Teminite/Uprising/Teminite X Chime X PsoGnar - Monster.mp3
+27:Teminite/Uprising/Teminite & Said - Make Me.mp3
+28:Teminite/Uprising/Teminite & Evilwave - Rattlesnake.mp3
+29:Teminite/Uprising/Teminite - Crushing On You (ft. Georgia Denham).mp3
+30:Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3
 playlist_end
