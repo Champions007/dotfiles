@@ -3,7 +3,7 @@
 aur_packages="dmenu-git polybar-git betterlockscreen"
 driver_packages="xf86-video-qxl xf86-input-libinput xdo xorg-server xorg-xinit"
 terminal_packages="termite"
-aur_fonts="ttf-ms-fonts"
+aur_fonts="ttf-ms-fonts nerd-fonts-iosevka"
 util_packages="bspwm sxhkd feh rofi firefox libreoffice-fresh lxappearance-gtk3 arc-gtk-theme neofetch htop brightnessctl"
 
 symlink_folders()
@@ -11,6 +11,7 @@ symlink_folders()
 ln -s ~/Github/dotfiles/bspwm ~/.config/bspwm
 ln -s ~/Github/dotfiles/sxhkd ~/.config/sxhkd
 ln -s ~/Github/dotfiles/polybar ~/.config/polybar
+ln -s ~/Github/dotfiles/termite ~/.config/termite
 }
 setxkeyboard()
 {
@@ -23,8 +24,6 @@ echo "export TERMINAL=termite" >> ~/.bashrc
 echo "export EDITOR=vim" >> ~/.bashrc
 touch ~/.xinitrc
 echo "exec bspwm" >> ~/.xinitrc
-mkdir ~/.config/termite
-sudo cp /etc/xdg/termite/config ~/.config/termite/
 }
 
 install_packages()
