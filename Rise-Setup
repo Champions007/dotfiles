@@ -12,6 +12,7 @@ ln -s ~/Github/dotfiles/bspwm ~/.config/bspwm
 ln -s ~/Github/dotfiles/sxhkd ~/.config/sxhkd
 ln -s ~/Github/dotfiles/polybar ~/.config/polybar
 ln -s ~/Github/dotfiles/termite ~/.config/termite
+ln -s ~/Github/dotfiles/bin ~/bin
 }
 setxkeyboard()
 {
@@ -22,6 +23,7 @@ create_config_files()
 {
 echo "export TERMINAL=termite" >> ~/.bashrc
 echo "export EDITOR=vim" >> ~/.bashrc
+echo PATH=$PATH:~/bin
 touch ~/.xinitrc
 echo "exec bspwm" >> ~/.xinitrc
 }
