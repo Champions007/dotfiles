@@ -7,6 +7,7 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.local/share/nvim/plugged')
 " Syntax
+Plug 'ycm-core/YouCompleteMe', {'do': ':python install.py --all'}
 "Themes
 Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'
@@ -43,7 +44,6 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'altercation/vim-colors-solarized'
 Plug 'ryanoasis/vim-devicons'
 " Plug 'Shougo/deoplete.nvim', {'do': ':UpdateRemotePlugins' }
-Plug 'ycm-core/YouCompleteMe', {'do': ':python install.py --all'}
 " Plug 'vimwiki/vimwiki'
 Plug 'turbio/bracey.vim'
 call plug#end()
