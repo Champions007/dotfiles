@@ -1,10 +1,10 @@
 #!/bin/sh
 
-selected_wallpaper=$(ls $HOME/.config/bspwm/Wallpapers | dmenu -l 10 -p "Select a wallpaper:")
+selected_wallpaper=$(find ~/Github/dotfiles/bspwm/Wallpapers -type f -not -path '*/\.*' | dmenu -l 10 -p "Select a wallpaper:")
 
 echo "#!/bin/sh
-feh --bg-scale '$HOME/.config/bspwm/Wallpapers/$selected_wallpaper'" > $HOME/.config/bspwm/fehbg
+feh --bg-scale '$selected_wallpaper'" > $HOME/.config/bspwm/fehbg
 
 bspc wm -r
 
-termite -e "betterlockscreen -u $HOME/.config/bspwm/Wallpapers/$selected_wallpaper"
+termite -e "betterlockscreen -u $selected_wallpaper"
