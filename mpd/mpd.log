@@ -6610,3 +6610,134 @@ Jun 10 11:48 : exception: Failed to open /home/champions007/.config/mpd/playlist
 Jun 10 11:49 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
 Jun 10 11:49 : client: [1] closed
 Jun 10 11:49 : player: played "Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3"
+Jun 26 00:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 00:32 : config: option 'device' on line 13 was not recognized
+Jun 26 00:32 : exception: Failed to decode /home/champions007/Music/Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3
+Jun 26 00:32 : exception: nested: Failed to open '/home/champions007/Music/Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3': No such file or directory
+Jun 26 00:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 00:32 : player: played "Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3"
+Jun 26 00:32 : client: [0] opened from 127.0.0.1:33160
+Jun 26 00:32 : client: [1] opened from 127.0.0.1:33164
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Tobu - Return To The Wild [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Koven - Never Have I Felt This [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/JPB - All Stops Now (feat. Soundr) [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Distrion & Electro - Light - Drakkar [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/WiDE AWAKE - Something More [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Feint - Shockwave (feat. Heather Sommer) [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Unknown Brain - Waiting (feat. Lox Chatterbox, BLVKSTN & Salvo) [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Egzod - Departure (feat. evOke) [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Jim Yosef & Valentina Franco - Chasing Dreams [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Diamond Eyes - Hold On [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Lost Sky - Dreams pt.II (feat. Sara Skinner) [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Elektronomia - Heaven [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/Axol & Max Hurrell - Shots Fired [NCS Release].mp3
+Jun 26 00:32 : update: removing NCS/NCS Reloaded/ÉWN - The Light [NCS Release].mp3
+Jun 26 00:32 : update: removing Private/Anime OP music/01 Skyclad no Kansokusha.mp3
+Jun 26 00:32 : update: removing Private/Anime OP music/Angel Beats - My Soul Your Beats.mp3
+Jun 26 00:32 : update: removing Private/Anime OP music/Angel Beats - Brave Song.mp3
+Jun 26 00:32 : update: removing Private/Anime OP music/Angel Beats - My Song.mp3
+Jun 26 00:32 : update: removing Private/Anime OP music/Angels of Death OST.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - Uprising.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - State Of Mind.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - A New Dawn.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - Party Time (100K FREEBIE).mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - Standing Tall (ft. Jonah Hitchens).mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite & Said - Make Me.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite & Evilwave - Rattlesnake.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite X Chime X PsoGnar - Monster.mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - Crushing On You (ft. Georgia Denham).mp3
+Jun 26 00:32 : update: removing Teminite/Uprising/Teminite - Ascent (50K FREE).mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Virtual Riot - Save Yourself.mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Virtual Riot - Wallmonger.mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Hysteria.mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Iteration (Interlude).mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Virtual Riot - Self Checkout.mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/GOAT.mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Virtual Riot - The Recall.mp3
+Jun 26 00:32 : update: removing Virtual Riot/Save Yourself EP/Insides.mp3
+Jun 26 00:32 : client: [1] closed
+Jun 26 00:35 : client: [2] opened from 127.0.0.1:33210
+Jun 26 00:35 : update: added Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3
+Jun 26 00:35 : update: added Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3
+Jun 26 00:35 : update: added Teminite/Teminite - Unstoppable EP/Teminite - Hold On.mp3
+Jun 26 00:35 : update: added Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3
+Jun 26 00:35 : client: [2] closed
+Jun 26 00:35 : client: [3] opened from 127.0.0.1:33214
+Jun 26 00:35 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 00:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:38 : client: [3] closed
+Jun 26 00:38 : client: [4] opened from 127.0.0.1:33220
+Jun 26 00:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:39 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 26 00:39 : client: [4] closed
+Jun 26 00:39 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"
+Jun 26 00:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 00:55 : config: option 'device' on line 13 was not recognized
+Jun 26 00:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 00:55 : client: [0] opened from 127.0.0.1:34254
+Jun 26 00:55 : client: [1] opened from 127.0.0.1:34258
+Jun 26 00:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 00:55 : client: [1] closed
+Jun 26 00:55 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Hold On.mp3"
+Jun 26 17:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 17:11 : config: option 'device' on line 13 was not recognized
+Jun 26 17:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 17:11 : client: [0] opened from 127.0.0.1:54448
+Jun 26 17:11 : client: [1] opened from 127.0.0.1:54452
+Jun 26 17:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 17:12 : client: [1] closed
+Jun 26 17:12 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Hold On.mp3"
+Jun 27 23:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 23:30 : config: option 'device' on line 13 was not recognized
+Jun 27 23:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 23:30 : client: [0] opened from 127.0.0.1:52026
+Jun 27 23:30 : client: [1] opened from 127.0.0.1:52030
+Jun 27 23:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 27 23:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 23:40 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3"
+Jun 27 23:56 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
+Jun 28 01:50 : client: [1] closed
+Jun 28 19:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 19:51 : config: option 'device' on line 13 was not recognized
+Jun 28 19:51 : client: [0] opened from 127.0.0.1:60408
+Jun 28 19:51 : client: [1] opened from 127.0.0.1:60412
+Jun 28 19:51 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jun 28 19:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 19:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 19:54 : client: [1] closed
+Jun 28 19:59 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"
+Jun 28 20:17 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3"
+Jul 03 16:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:33 : config: option 'device' on line 13 was not recognized
+Jul 03 16:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:33 : client: [0] opened from 127.0.0.1:44576
+Jul 03 16:33 : client: [1] opened from 127.0.0.1:44580
+Jul 03 16:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:34 : client: [0] closed
+Jul 03 16:34 : client: [2] opened from 127.0.0.1:44582
+Jul 03 16:34 : client: [2] closed
+Jul 03 16:34 : client: [3] opened from 127.0.0.1:44584
+Jul 03 16:35 : client: [1] closed
+Jul 03 16:35 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3"
+Jul 07 16:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 07 16:39 : config: option 'device' on line 13 was not recognized
+Jul 07 16:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 07 16:39 : client: [0] opened from 127.0.0.1:38074
+Jul 07 16:39 : client: [1] opened from 127.0.0.1:38078
+Jul 07 16:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 07 16:47 : client: [1] closed
+Jul 07 16:47 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3"

@@ -7,7 +7,7 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.vim/plugged')
 " Syntax
-Plug 'ycm-core/YouCompleteMe'
+" Plug 'ycm-core/YouCompleteMe'
 "Themes
 Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'
@@ -113,7 +113,7 @@ set softtabstop=4
 set shiftwidth=4
 set shiftround
 set expandtab
-set wrap!
+set wrap
 "}}}
 
 "{{{Compaling and running Python code
