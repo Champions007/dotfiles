@@ -23,7 +23,7 @@ create_config_files()
 {
 echo "export TERMINAL=termite" >> ~/.bashrc
 echo "export EDITOR=vim" >> ~/.bashrc
-echo PATH=$PATH:~/bin
+echo PATH=$PATH:~/bin >> ~/.bashrc
 touch ~/.xinitrc
 echo "exec bspwm" >> ~/.xinitrc
 }
