@@ -117,7 +117,7 @@ set wrap
 "}}}
 
 "{{{Compaling and running Python code
-autocmd FileType python nnoremap <buffer> <leader>c :vsp <bar> update <bar> term python3 %<CR>i
+autocmd FileType python nnoremap <buffer> <leader>c :update <bar> term python3 %<CR>i
 "}}}
 
 "{{{Refactoring for c# code
@@ -126,23 +126,23 @@ autocmd FileType cs nnoremap <buffer> <leader>r :normal viw <Enter> :YcmComplete
 
 "{{{Compiling and runing c# code
 "autocmd FileType cs nnoremap <buffer> <leader>c :vsp <bar> update <bar> term mcs -out:%:r.exe ./*.cs && mono ./%:r.exe<CR>i
-autocmd FileType cs nnoremap <buffer> <leader>c :sp <bar> update <bar> term dotnet run<CR>i 
+autocmd FileType cs nnoremap <buffer> <leader>c :update <bar> term dotnet run<CR>i 
 "}}}
 
 "{{{Compiling and running java code
-autocmd FileType java nnoremap <buffer> <leader>c :vsp <bar> update <bar> term javac % && java %:r<CR>i
+autocmd FileType java nnoremap <buffer> <leader>c :update <bar> term javac % && java %:r<CR>i
 "}}}
 
 "{{{ Comiling and running c++ code
-autocmd FileType cpp nnoremap <buffer> <leader>c :sp <bar> update <bar> term make && make run<CR>i
+autocmd FileType cpp nnoremap <buffer> <leader>c :update <bar> term make && make run<CR>i
 "}}}
 
 "{{{Compiling and running ruby code
-autocmd FileType ruby nnoremap <buffer> <leader>c :vsp <bar> update <bar> term ruby2.5 %<CR>i
+autocmd FileType ruby nnoremap <buffer> <leader>c :update <bar> term ruby2.5 %<CR>i
 "}}}
 
 "{{{ Compiling and running kotlin files
-autocmd Filetype kotlin nnoremap <buffer> <leader>c :sp <bar> update <bar> term kotlinc ./*.kt -include-runtime -d %:r.jar && java -jar %:r.jar<Enter>i
+autocmd Filetype kotlin nnoremap <buffer> <leader>c :update <bar> term kotlinc ./*.kt -include-runtime -d %:r.jar && java -jar %:r.jar<Enter>i
 "}}}
 
 "{{{Disable stupid backup and swap files.
