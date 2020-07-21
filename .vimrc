@@ -7,7 +7,7 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.vim/plugged')
 " Syntax
-" Plug 'ycm-core/YouCompleteMe'
+Plug 'ycm-core/YouCompleteMe'
 "Themes
 Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'

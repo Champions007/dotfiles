@@ -6741,3 +6741,36 @@ Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlist
 Jul 07 16:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
 Jul 07 16:47 : client: [1] closed
 Jul 07 16:47 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3"
+Jul 15 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 18:52 : config: option 'device' on line 13 was not recognized
+Jul 15 18:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 18:52 : client: [0] opened from 127.0.0.1:57104
+Jul 15 18:52 : client: [1] opened from 127.0.0.1:57108
+Jul 15 18:52 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:53 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:54 : client: [1] closed
+Jul 15 18:55 : client: [2] opened from 127.0.0.1:57114
+Jul 15 18:55 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 15 18:55 : client: [2] closed
+Jul 15 18:55 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"

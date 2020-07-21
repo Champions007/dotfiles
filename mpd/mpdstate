@@ -1,9 +1,9 @@
 sw_volume: 96
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: pause
-current: 1
-time: 133.878000
+state: play
+current: 5
+time: 165.352000
 random: 0
 repeat: 0
 single: 1
@@ -17,4 +17,5 @@ playlist_begin
 2:Teminite/Teminite - Unstoppable EP/Teminite - Hold On.mp3
 3:Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3
 4:Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3
+5:Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3
 playlist_end
