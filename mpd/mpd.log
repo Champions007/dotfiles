@@ -6774,3 +6774,76 @@ Jul 15 18:55 : client: [2] opened from 127.0.0.1:57114
 Jul 15 18:55 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
 Jul 15 18:55 : client: [2] closed
 Jul 15 18:55 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"
+Jul 27 20:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 20:23 : config: option 'device' on line 13 was not recognized
+Jul 27 20:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 20:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 20:23 : client: [0] opened from 127.0.0.1:49640
+Jul 27 20:23 : client: [1] opened from 127.0.0.1:49642
+Jul 27 20:23 : client: [1] closed
+Jul 27 20:23 : client: [2] opened from 127.0.0.1:49644
+Jul 27 20:23 : client: [2] closed
+Jul 27 20:24 : client: [3] opened from 127.0.0.1:49646
+Jul 27 20:24 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"
+Jul 27 20:24 : client: [3] closed
+Jul 27 20:24 : client: [0] closed
+Jul 27 20:24 : client: [4] opened from 127.0.0.1:49648
+Jul 27 20:24 : client: [5] opened from 127.0.0.1:49650
+Jul 27 20:24 : client: [5] closed
+Jul 27 20:24 : client: [6] opened from 127.0.0.1:49652
+Jul 27 20:24 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"
+Jul 27 20:24 : client: [6] closed
+Jul 27 20:24 : client: [7] opened from 127.0.0.1:49654
+Jul 27 20:24 : client: [7] closed
+Jul 27 20:24 : client: [8] opened from 127.0.0.1:49658
+Jul 27 20:24 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:25 : client: [9] opened from 127.0.0.1:49660
+Jul 27 20:25 : client: [9] closed
+Jul 27 20:25 : client: [10] opened from 127.0.0.1:49662
+Jul 27 20:25 : client: [10] closed
+Jul 27 20:25 : client: [11] opened from 127.0.0.1:49664
+Jul 27 20:25 : client: [11] closed
+Jul 27 20:25 : client: [12] opened from 127.0.0.1:49666
+Jul 27 20:25 : client: [12] closed
+Jul 27 20:27 : client: [13] opened from 127.0.0.1:49688
+Jul 27 20:27 : client: [13] closed
+Jul 27 20:27 : client: [14] opened from 127.0.0.1:49690
+Jul 27 20:27 : client: [14] closed
+Jul 27 20:27 : client: [15] opened from 127.0.0.1:49692
+Jul 27 20:27 : client: [15] closed
+Jul 27 20:27 : client: [8] closed
+Jul 27 20:29 : client: [16] opened from 127.0.0.1:49710
+Jul 27 20:29 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:29 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:29 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:29 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:29 : client: [17] opened from 127.0.0.1:49712
+Jul 27 20:29 : client: [17] closed
+Jul 27 20:30 : client: [18] opened from 127.0.0.1:49714
+Jul 27 20:30 : client: [18] closed
+Jul 27 20:30 : client: [19] opened from 127.0.0.1:49716
+Jul 27 20:30 : client: [19] closed
+Jul 27 20:31 : client: [20] opened from 127.0.0.1:49720
+Jul 27 20:31 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
+Jul 27 20:31 : client: [20] closed
+Jul 27 20:31 : client: [21] opened from 127.0.0.1:49722
+Jul 27 20:31 : client: [21] closed
+Jul 27 20:31 : client: [22] opened from 127.0.0.1:49724
+Jul 27 20:31 : client: [22] closed
+Jul 27 20:31 : client: [23] opened from 127.0.0.1:49726
+Jul 27 20:31 : client: [23] closed
+Jul 27 20:33 : client: [4] closed
+Jul 27 20:36 : client: [24] opened from 127.0.0.1:49754
+Jul 27 20:36 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:37 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:38 : client: [24] closed
+Jul 27 20:38 : client: [25] opened from 127.0.0.1:49756
+Jul 27 20:39 : client: [25] closed
+Jul 27 20:39 : client: [26] opened from 127.0.0.1:49758
+Jul 27 20:42 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
