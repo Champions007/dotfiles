@@ -23,7 +23,7 @@ Plug 'valloric/MatchTagAlways'
 " For kotlin files
 Plug 'udalov/kotlin-vim'
 "Latex 
-Plug 'lervag/vimtex'
+" Plug 'lervag/vimtex'
 " Utils
 "Plug 'OmniSharp/omnisharp-vim'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
