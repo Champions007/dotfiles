@@ -6847,3 +6847,836 @@ Jul 27 20:38 : client: [25] opened from 127.0.0.1:49756
 Jul 27 20:39 : client: [25] closed
 Jul 27 20:39 : client: [26] opened from 127.0.0.1:49758
 Jul 27 20:42 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:44 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : client: [16] closed
+Jul 27 20:45 : client: [27] opened from 127.0.0.1:49796
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 20:45 : client: [28] opened from 127.0.0.1:49798
+Jul 27 20:45 : client: [28] closed
+Jul 27 20:45 : client: [29] opened from 127.0.0.1:49800
+Jul 27 20:45 : client: [29] closed
+Jul 27 20:50 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
+Jul 27 20:50 : client: [30] opened from 127.0.0.1:49804
+Jul 27 20:50 : client: [30] closed
+Jul 27 20:53 : client: [31] opened from 127.0.0.1:49922
+Jul 27 20:53 : client: [31] closed
+Jul 27 20:53 : client: [32] opened from 127.0.0.1:49932
+Jul 27 20:53 : client: [32] closed
+Jul 27 20:56 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Hold On.mp3"
+Jul 27 20:56 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3"
+Jul 27 20:57 : player: played "Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3"
+Jul 27 20:58 : client: [33] opened from 127.0.0.1:50188
+Jul 27 20:58 : client: [33] closed
+Jul 27 20:58 : client: [34] opened from 127.0.0.1:50190
+Jul 27 20:58 : client: [34] closed
+Jul 27 20:58 : client: [35] opened from 127.0.0.1:50192
+Jul 27 20:58 : client: [35] closed
+Jul 27 20:58 : client: [36] opened from 127.0.0.1:50194
+Jul 27 20:58 : client: [36] closed
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Rootkit - Levitate (feat. Tylor Maurer).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Pegboard Nerds x Quiet Disorder - Move That Body.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Glacier - Neos.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/RICCI - Boom.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Darren Styles - Us Against The World.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/MYRNE - Afterdark (feat. Aviella).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Rogue x Stonebank x Slippy - Unity.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Mr FijiWiji & Exist Strategy - Andromeda (feat. Matt Van).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Noisestorm - Escape.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Zero Hero - Bass Drop.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Tokyo Machine - CRAZY.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Stonebank - Ripped To Pieces (feat. EMEL).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Dirtyphonics & Bassnectar - Watch Out (feat. Ragga Twins).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Mr FijiWiji & Direct - Tomorrow (feat. Matt Van & Holly Drummond).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Unlike Pluto - Sweet (feat. Mister Blonde).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Duumu - Illuminate (feat. Slyleaf).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Nitro Fun - Home.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Reach - Bollywood Stunna.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Anevo - Waiting On Your Call (feat. Park Avenue).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/KUURO - Bandit.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Unlike Pluto - Everything Black (feat. Mike Taylor).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Grant - Starship.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/nanobii - Bubble Beam.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Muzzy - Spectrum.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Tokyo Machine - BLAST.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Kayzo - This Time.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Chardonnay (feat. Karra).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Wolfgang Gartner x Aero Chord - Borneo.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Topi - Swapping Things.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Slippy x Holly - Turmoil.mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Monstercat Uncaged - Vol. 1 (Album Mix).mp3
+Jul 27 21:00 : update: added Monstercat/Monstercat Uncaged - Vol. 1/Orbiter - Want You.mp3
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:03 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:05 : client: [37] opened from 127.0.0.1:50498
+Jul 27 21:05 : client: [37] closed
+Jul 27 21:05 : client: [38] opened from 127.0.0.1:50502
+Jul 27 21:05 : client: [38] closed
+Jul 27 21:05 : client: [39] opened from 127.0.0.1:50508
+Jul 27 21:05 : client: [39] closed
+Jul 27 21:05 : client: [40] opened from 127.0.0.1:50510
+Jul 27 21:05 : client: [40] closed
+Jul 27 21:05 : client: [41] opened from 127.0.0.1:50512
+Jul 27 21:05 : player: played "Monstercat/Monstercat Uncaged - Vol. 1/Stonebank - Ripped To Pieces (feat. EMEL).mp3"
+Jul 27 21:05 : client: [41] closed
+Jul 27 21:08 : client: [42] opened from 127.0.0.1:50586
+Jul 27 21:08 : client: [42] closed
+Jul 27 21:10 : client: [43] opened from 127.0.0.1:50588
+Jul 27 21:10 : client: [43] closed
+Jul 27 21:10 : client: [44] opened from 127.0.0.1:50590
+Jul 27 21:10 : client: [44] closed
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Orbiter - Discovery.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Conro - Close.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/KUURO - Possession.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Stonebank - Feel It.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Grant, Anevo & Conro - Without You (feat. Victoria Zaro).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Tut Tut Child - If I Could (feat. Beth Cole).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Koven & Crystal Skies - You Me And Gravity.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Rameses B - Nova.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/SUPERHUMAN FT. ERIC LEVA.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Mindsight & Duumu - What Feels Right.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Glacier - Nurture (feat. Brenna Myers).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/RIOT - Disorder.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Extraordinary (feat. Elizaveta) - Pegboard Nerds x Spyker.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Dirtyphonics x RIOT - Got Your Love.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Direct - Too Far Away.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Dion Timmer - Till I Make It (feat. Tima Dee).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Summer Was Fun - Love Back On (feat. Emelie Cyréus).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Monstercat Uncaged - Vol. 2 (Album Mix).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Reach x Slippy - That Sound.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Dirty Audio - Alien Cookies.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/MYRNE & Popeska - Get It All (feat. Emily Hendrix).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Savoy & Grabbitz - Contemplate.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/DROELOE - JUMP (feat. Nevve).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Droptek - Fragments.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Kayzo & Gammer - Over The Edge (feat. AU8UST).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/KUURO - Rapture (feat. MC Mota).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Reach - Throw Handz.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Conro - Lay Low (feat. David Benjamin).mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Vicetone - I Hear You.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Darren Styles, Dougal & Gammer - Party Don't Stop.mp3
+Jul 27 21:10 : update: added Monstercat/Monstercat Uncaged Vol. 2/Grant - Are We Still Young (feat. Jessi Mason).mp3
+Jul 27 21:11 : client: [45] opened from 127.0.0.1:50596
+Jul 27 21:11 : client: [45] closed
+Jul 27 21:11 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:12 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : player: played "Monstercat/Monstercat Uncaged - Vol. 1/Darren Styles - Us Against The World.mp3"
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : client: [27] closed
+Jul 27 21:13 : client: [46] opened from 127.0.0.1:50736
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: Not a directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:13 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:14 : client: [46] closed
+Jul 27 21:14 : client: [47] opened from 127.0.0.1:50800
+Jul 27 21:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:14 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:15 : client: [48] opened from 127.0.0.1:50888
+Jul 27 21:15 : client: [48] closed
+Jul 27 21:18 : client: [49] opened from 127.0.0.1:50992
+Jul 27 21:18 : client: [49] closed
+Jul 27 21:18 : client: [50] opened from 127.0.0.1:50994
+Jul 27 21:18 : client: [50] closed
+Jul 27 21:18 : client: [51] opened from 127.0.0.1:50996
+Jul 27 21:18 : client: [51] closed
+Jul 27 21:19 : client: [52] opened from 127.0.0.1:50998
+Jul 27 21:19 : client: [52] closed
+Jul 27 21:25 : client: [53] opened from 127.0.0.1:51368
+Jul 27 21:25 : client: [53] closed
+Jul 27 21:25 : client: [54] opened from 127.0.0.1:51372
+Jul 27 21:25 : player: played "Monstercat/Monstercat Uncaged Vol. 2/Grant - Are We Still Young (feat. Jessi Mason).mp3"
+Jul 27 21:25 : client: [54] closed
+Jul 27 21:26 : client: [55] opened from 127.0.0.1:51374
+Jul 27 21:26 : player: played "Monstercat/Monstercat Uncaged - Vol. 1/Anevo - Waiting On Your Call (feat. Park Avenue).mp3"
+Jul 27 21:26 : client: [55] closed
+Jul 27 21:26 : client: [56] opened from 127.0.0.1:51376
+Jul 27 21:26 : client: [56] closed
+Jul 27 21:27 : client: [57] opened from 127.0.0.1:51378
+Jul 27 21:27 : client: [57] closed
+Jul 27 21:30 : client: [58] opened from 127.0.0.1:51550
+Jul 27 21:30 : client: [58] closed
+Jul 27 21:33 : client: [59] opened from 127.0.0.1:51796
+Jul 27 21:33 : client: [59] closed
+Jul 27 21:33 : client: [60] opened from 127.0.0.1:51798
+Jul 27 21:33 : client: [60] closed
+Jul 27 21:33 : client: [61] opened from 127.0.0.1:51808
+Jul 27 21:33 : client: [61] closed
+Jul 27 21:33 : client: [62] opened from 127.0.0.1:51826
+Jul 27 21:33 : client: [62] closed
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Grabbitz - Told Ya So.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Tokyo Machine - SPOOKY.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Jay Cosmic - Ascend.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Delta Heavy x Dirty Audio - Stay (feat. HOLLY).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/KUURO - Swarm.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Zac Waters - Freak.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Gammer - Stay Tonight (feat. Dylan Matthew).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Slippy - Moving Hectic (feat. Harry Shotta).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Ookay & Fox Stevenson - Lighthouse.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/SLANDER & KAYZO - WITHOUT YOU FT. DYLAN MATTHEW.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Soupandreas - Sprite.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Reach - Nobushi.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Seven Lions & Kill The Noise - Cold Hearted.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Flite - We Are One.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Monstercat Uncaged - Vol. 3 (Album Mix).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Dirtyphonics & Sullivan King - Vantablack.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Puppet & Foria - Bigger Picture.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Tokyo Machine - BUBBLES.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Notaker & Declan James - Who I Am (feat. Karra).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/KAYZO & SLANDER - HOLY FT. MICAH MARTIN.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Topi - Got To Be.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Stonebank - By Your Side (feat. EMEL).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Muzzy & Koven & Feint - Worth The Lie.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Bishu - Bomb (feat. LeyeT).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Bad Computer - New Dawn.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Gammer - Let's Get Crunk.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Lookas - Eclipse.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/MYRNE - Confessions (feat. Cozi Zuehlsdorff).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Dirtyphonics & Sullivan King - Sight Of Your Soul.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Pegboard Nerds - Heaven Let Us Down (feat. Koda).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/INTERCOM - Decoy World (feat. Park Avenue).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 3/Savoy - How U Like Me Now (feat. Roniit).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Modestep & Dion Timmer - Going Nowhere.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Monstercat Uncaged Vol. 4 (Album Mix).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Modestep - Higher.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Modestep - Higher (Oliverse Remix).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Supersonic feat. Chimeric.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Zac Waters - A Lot Like You.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Pegboard Nerds - Just Dance (feat. Tia Simone).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Slander - Superhuman (Spag Heddy Remix) [feat. Eric Leva].mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Gent & Jawns - Champion Sound.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Taska Black - We Would Never Do (ft. Nevve).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/THE DROP.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Delta Heavy x Dirty Audio feat HOLLY - Stay (PhaseOne Remix).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Bring Me Joy - Pegboard Nerds X Lug00ber.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Gent & Jawns - The Meaning.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Matroda - Shut It Down.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/KUURO - Omen.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Infected Mushroom - Spitfire.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Darren Styles & Stonebank - Sky Is Falling (feat. EMEL).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Droptek & Vorso - Smog.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Stonebank - Body Moving (feat. Whizzkid).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Bad Computer - Disarray.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Slippy - Promise Me.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Reach & Jupe - Beast.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Bishu - Eyes Wide Open.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Apriskah - Push It.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/MYRNE - Lyra.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Nitro Fun - Cheat Codes VIP.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Slippy - Haunted VIP.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Ephixa & Bossfight - Subside.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/KUURO - Doji.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 4/Delta Heavy - I Need You.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Tokyo Machine - COOKIES.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Gammer - NEEDED U.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Knife Party + Pegboard Nerds - Harpoon [Monstercat].mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Pegboard Nerds & Dion Timmer - Escape.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Falcon Funk & Bossfight - Comeback.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Murder.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Dirty Audio - Racks.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Wicked (feat. Sullivan King).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Justin OH - She's A Killer.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Koven - Board Game.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Bishu - Rituals.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Trivecta & Wooli - Falling.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Slippy & Goja - Monster (feat. Panther).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/KUURO - Take Me Down (feat. Bianca).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Bad Computer - Paradigm (feat. Karra).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/FWLR - Numb (feat. Che'Nelle).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Tisoki - Bring It Back.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Muzzy - In The Night (feat. Sullivan King).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Nitro Fun - Time Goes By.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Reach - Forever.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/MYRNE & Grant - Fault (feat. McCall).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Rameses B - Prometheus.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Matroda - Boom Bap.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Dirtyphonics - Sayonara.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/KUURO - Knockin'.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Uncaged Vol. 5 Album Mix.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Matroda - Damn Floor.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Aiwa.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Dyro - Feel It Coming.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Bossfight - Sovereign.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Muzzy - New Age (feat. Celldweller).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Soulji - Black Mask.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Two Minds (feat. Tim Moyo).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Rickyxsan - This Feeling (feat. Kalibwoy).mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/SLANDER & CRANKDAT - KNEEL BEFORE ME FT. ASKING ALEXANDRIA.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/The Mob.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Modestep - Summer.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Delta Heavy - Exodus.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Deorro & Dirty Audio - Dracarys.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Stonebank - What's Going Down.mp3
+Jul 27 21:39 : update: added Monstercat/Monstercat Uncaged Vol. 5/Bossfight - Work.mp3
+Jul 27 21:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:40 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/SLUMBERJACK X Troyboi - Solid.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/AERO CHORD - PLAY YOUR PART [MUSIC VIDEO BELOW] [MONSTERCAT].mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Crankdat & Tisoki - Wobble.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/FWLR - How We Win.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Justin OH - Loving Her Loving U (feat. Delaney Kai).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Protostar & Muzzy - MELTDOWN.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/SLANDER & RIOT - YOU DON'T EVEN KNOW ME.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/KUURO - What U Wanna Do (feat. Spencer Ludwig).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Pixel Terror - Ultima.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Magic.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/SLANDER & SPAG HEDDY - RUNNING TO YOU FT. ELLE VEE.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Modestep - Not IRL.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Lil Hank - Hank's Back.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Slippy - Show Me (feat. Sara Skinner).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Noisestorm - Breakout (feat. Foreign Beggars).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Stonebank - The Government.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Fizzy Lifting Drink (feat. Big Gigantic & Jimi Tents).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/FWLR & A-SHO - Cave Me In.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Overkill.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Trivecta - Axis.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Notaker - Into The Light (feat. Karra).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Infected Mushroom & Bliss - Bliss on Mushrooms (feat. Miyavi).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Julian Calor - You Might Get Lost.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Bossfight - Badmash.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Slippy - One Thing (feat. Tim Moyo).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Monstercat - Uncaged Vol. 6 (Album Mix).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Sullivan King - I'll Fight Back.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Pixel Terror - Machina.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/HATE BEING ALONE FT. DYLAN MATTHEW.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Notaker - The Storm.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/KUURO & Clockvice - 1000 Cuts.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Bossfight - U Got Me.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Tokyo Machine - EPIC.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Au5 & Nytrix - Only In A Dream.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Holly & Loosid - Fire Flower.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Jungle Fury.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Will Sparks & SCNDL - Tombstone.mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/The Edge (feat. Nevve).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Darren Styles & Dougal - Home (feat. Jacob Wellfair).mp3
+Jul 27 21:49 : update: added Monstercat/Monstercat Uncaged Vol. 6/Atmozfears - Lose It All.mp3
+Jul 27 21:50 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:50 : client: [47] closed
+Jul 27 21:50 : player: played "Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3"
+Jul 27 21:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:51 : config: option 'device' on line 13 was not recognized
+Jul 27 21:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:51 : player: played "Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3"
+Jul 27 21:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:56 : config: option 'device' on line 13 was not recognized
+Jul 27 21:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:56 : client: [0] opened from 127.0.0.1:52572
+Jul 27 21:56 : client: [1] opened from 127.0.0.1:52576
+Jul 27 21:56 : client: [2] opened from 127.0.0.1:52578
+Jul 27 21:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:56 : client: [2] closed
+Jul 27 21:56 : client: [3] opened from 127.0.0.1:52580
+Jul 27 21:56 : client: [3] closed
+Jul 27 21:57 : client: [4] opened from 127.0.0.1:52582
+Jul 27 21:57 : client: [4] closed
+Jul 27 21:57 : client: [5] opened from 127.0.0.1:52584
+Jul 27 21:57 : player: played "Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3"
+Jul 27 21:57 : client: [5] closed
+Jul 27 21:57 : client: [6] opened from 127.0.0.1:52586
+Jul 27 21:57 : client: [6] closed
+Jul 27 21:57 : client: [7] opened from 127.0.0.1:52588
+Jul 27 21:57 : player: played "Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3"
+Jul 27 21:57 : client: [7] closed
+Jul 27 21:57 : client: [8] opened from 127.0.0.1:52590
+Jul 27 21:57 : client: [8] closed
+Jul 27 21:57 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 27 21:57 : client: [1] closed
+Jul 27 21:57 : player: played "Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3"
+Jul 27 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:58 : config: option 'device' on line 13 was not recognized
+Jul 27 21:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:58 : client: [0] opened from 127.0.0.1:52636
+Jul 27 21:58 : client: [1] opened from 127.0.0.1:52638
+Jul 27 21:58 : player: played "Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3"
+Jul 27 21:58 : client: [1] closed
+Jul 27 21:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:59 : config: option 'device' on line 13 was not recognized
+Jul 27 21:59 : client: [0] opened from 127.0.0.1:52654
+Jul 27 21:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:59 : config: option 'device' on line 13 was not recognized
+Jul 27 21:59 : client: [0] opened from 127.0.0.1:52668
+Jul 27 21:59 : client: [1] opened from 127.0.0.1:52670
+Jul 27 21:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:59 : client: [1] closed
+Jul 27 21:59 : client: [2] opened from 127.0.0.1:52672
+Jul 27 21:59 : client: [2] closed
+Jul 27 21:59 : client: [3] opened from 127.0.0.1:52674
+Jul 27 21:59 : client: [3] closed
+Jul 27 22:00 : player: played "Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3"
+Jul 28 23:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 23:29 : config: option 'device' on line 13 was not recognized
+Jul 28 23:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 23:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 23:29 : client: [0] opened from 127.0.0.1:58818
+Jul 28 23:29 : client: [1] opened from 127.0.0.1:58820
+Jul 28 23:29 : client: [1] closed
+Jul 28 23:30 : client: [2] opened from 127.0.0.1:58824
+Jul 28 23:30 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 28 23:30 : client: [3] opened from 127.0.0.1:58826
+Jul 28 23:30 : client: [3] closed
+Jul 28 23:32 : client: [0] closed
+Jul 28 23:32 : client: [4] opened from 127.0.0.1:58860
+Jul 28 23:33 : client: [4] closed
+Jul 28 23:33 : client: [5] opened from 127.0.0.1:58862
+Jul 28 23:34 : player: played "Monstercat/Monstercat Uncaged - Vol. 1/Chardonnay (feat. Karra).mp3"
+Jul 28 23:36 : client: [6] opened from 127.0.0.1:58870
+Jul 28 23:36 : client: [6] closed
+Jul 28 23:40 : player: played "Monstercat/Monstercat Uncaged Vol. 2/Extraordinary (feat. Elizaveta) - Pegboard Nerds x Spyker.mp3"
+Jul 28 23:46 : player: played "Monstercat/Monstercat Uncaged Vol. 6/Jungle Fury.mp3"
+Jul 28 23:50 : player: played "Monstercat/Monstercat Uncaged Vol. 4/Taska Black - We Would Never Do (ft. Nevve).mp3"
+Jul 29 00:05 : client: [7] opened from 127.0.0.1:59510
+Jul 29 00:05 : client: [7] closed
+Jul 29 00:08 : player: played "Monstercat/Monstercat Uncaged Vol. 5/Two Minds (feat. Tim Moyo).mp3"
+Jul 29 00:09 : client: [8] opened from 127.0.0.1:59598
+Jul 29 00:09 : client: [8] closed
+Jul 29 00:13 : player: played "Monstercat/Monstercat Uncaged Vol. 4/THE DROP.mp3"
+Jul 29 00:18 : client: [9] opened from 127.0.0.1:59738
+Jul 29 00:18 : client: [9] closed
+Jul 29 00:18 : client: [10] opened from 127.0.0.1:59744
+Jul 29 00:18 : client: [10] closed
+Jul 29 00:18 : client: [11] opened from 127.0.0.1:59754
+Jul 29 00:18 : client: [11] closed
+Jul 29 00:18 : client: [12] opened from 127.0.0.1:59756
+Jul 29 00:18 : client: [12] closed
+Jul 29 00:18 : client: [13] opened from 127.0.0.1:59758
+Jul 29 00:18 : client: [13] closed
+Jul 29 00:19 : client: [14] opened from 127.0.0.1:59772
+Jul 29 00:19 : client: [14] closed
+Jul 29 00:19 : client: [15] opened from 127.0.0.1:59774
+Jul 29 00:19 : client: [15] closed
+Jul 29 00:20 : client: [2] closed
+Jul 29 00:20 : client: [16] opened from 127.0.0.1:59784
+Jul 29 00:20 : client: [16] closed
+Jul 29 00:20 : client: [17] opened from 127.0.0.1:59788
+Jul 29 00:20 : client: [17] closed
+Jul 29 00:20 : player: played "Monstercat/Monstercat Uncaged Vol. 5/The Mob.mp3"
+Jul 29 01:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 01:03 : config: option 'device' on line 13 was not recognized
+Jul 29 01:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 01:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 01:06 : client: [0] opened from 127.0.0.1:60064
+Jul 29 01:12 : client: [0] closed
+Jul 29 01:59 : client: [1] opened from 127.0.0.1:60584
+Jul 29 02:00 : client: [2] opened from 127.0.0.1:60588
+Jul 29 02:00 : client: [2] closed
+Jul 29 02:00 : client: [3] opened from 127.0.0.1:60592
+Jul 29 02:00 : client: [3] closed
+Jul 29 02:01 : client: [4] opened from 127.0.0.1:60596
+Jul 29 02:01 : client: [4] closed
+Jul 29 02:01 : client: [5] opened from 127.0.0.1:60600
+Jul 29 02:01 : client: [5] closed
+Jul 29 02:01 : client: [6] opened from 127.0.0.1:60606
+Jul 29 02:01 : client: [6] closed
+Jul 29 02:01 : client: [7] opened from 127.0.0.1:60610
+Jul 29 02:01 : client: [7] closed
+Jul 29 02:02 : client: [8] opened from 127.0.0.1:60614
+Jul 29 02:02 : client: [8] closed
+Jul 29 02:02 : client: [9] opened from 127.0.0.1:60618
+Jul 29 02:02 : client: [9] closed
+Jul 29 02:02 : client: [10] opened from 127.0.0.1:60622
+Jul 29 02:02 : client: [10] closed
+Jul 29 02:03 : client: [11] opened from 127.0.0.1:60626
+Jul 29 02:03 : client: [11] closed
+Jul 29 02:03 : client: [12] opened from 127.0.0.1:60630
+Jul 29 02:03 : client: [12] closed
+Jul 29 02:03 : client: [13] opened from 127.0.0.1:60634
+Jul 29 02:03 : client: [13] closed
+Jul 29 02:03 : client: [14] opened from 127.0.0.1:60638
+Jul 29 02:03 : client: [14] closed
+Jul 29 02:03 : client: [15] opened from 127.0.0.1:60642
+Jul 29 02:03 : client: [15] closed
+Jul 29 02:03 : client: [16] opened from 127.0.0.1:60646
+Jul 29 02:03 : client: [16] closed
+Jul 29 02:04 : client: [17] opened from 127.0.0.1:60650
+Jul 29 02:04 : client: [17] closed
+Jul 29 02:04 : client: [18] opened from 127.0.0.1:60654
+Jul 29 02:04 : client: [18] closed
+Jul 29 02:04 : client: [19] opened from 127.0.0.1:60658
+Jul 29 02:04 : client: [19] closed
+Jul 29 02:08 : client: [20] opened from 127.0.0.1:60678
+Jul 29 02:08 : client: [20] closed
+Jul 29 02:08 : client: [21] opened from 127.0.0.1:60682
+Jul 29 02:08 : client: [21] closed
+Jul 29 02:08 : client: [22] opened from 127.0.0.1:60686
+Jul 29 02:08 : client: [22] closed
+Jul 29 02:08 : client: [23] opened from 127.0.0.1:60690
+Jul 29 02:08 : client: [23] closed
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:09 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Jul 29 02:10 : client: [24] opened from 127.0.0.1:60694
+Jul 29 02:10 : client: [24] closed
+Jul 29 02:11 : client: [1] closed
+Jul 29 02:22 : player: played "Monstercat/Monstercat Uncaged Vol. 5/Two Minds (feat. Tim Moyo).mp3"
+Jul 31 04:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 04:07 : config: option 'device' on line 13 was not recognized
+Jul 31 04:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 04:07 : client: [0] opened from 127.0.0.1:56000
+Jul 31 04:07 : client: [1] opened from 127.0.0.1:56002
+Jul 31 04:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 04:07 : client: [1] closed
+Jul 31 04:07 : client: [2] opened from 127.0.0.1:56004
+Jul 31 04:07 : client: [2] closed
+Jul 31 04:11 : player: played "Monstercat/Monstercat Uncaged Vol. 4/THE DROP.mp3"
+Jul 31 04:12 : client: [3] opened from 127.0.0.1:56014
+Jul 31 04:12 : client: [4] opened from 127.0.0.1:56016
+Jul 31 04:12 : client: [4] closed
+Jul 31 04:16 : player: played "Monstercat/Monstercat Uncaged Vol. 4/Taska Black - We Would Never Do (ft. Nevve).mp3"
+Jul 31 04:17 : client: [5] opened from 127.0.0.1:56020
+Jul 31 04:17 : client: [5] closed
+Jul 31 04:17 : client: [6] opened from 127.0.0.1:56022
+Jul 31 04:17 : client: [6] closed
+Jul 31 04:17 : client: [7] opened from 127.0.0.1:56024
+Jul 31 04:17 : client: [7] closed
+Jul 31 04:26 : player: played "Monstercat/Monstercat Uncaged Vol. 5/The Mob.mp3"
