@@ -10,7 +10,7 @@ XF86Audio{Mute,LowerVolume,RaiseVolume}
 
 # Brightness Controls 
 XF86MonBrightness{Up,Down}
-    sudo brightnessctl s {5%+,5%-}
+    brightnessctl s {5%+,5%-}
 
 # Restart hotkey damoen
 super + shift + r

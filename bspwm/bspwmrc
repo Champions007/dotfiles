@@ -7,6 +7,10 @@ $HOME/.config/bspwm/fehbg &&
 
 $HOME/.config/polybar/launch.sh &
 
+nm-applet &
+
+setxkbmap -layout lv apostrophe
+
 ###---Monitors Config---###
 bspc monitor -d 1 2 3 4 5
 

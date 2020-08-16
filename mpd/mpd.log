@@ -7680,3 +7680,247 @@ Jul 31 04:17 : client: [6] closed
 Jul 31 04:17 : client: [7] opened from 127.0.0.1:56024
 Jul 31 04:17 : client: [7] closed
 Jul 31 04:26 : player: played "Monstercat/Monstercat Uncaged Vol. 5/The Mob.mp3"
+Aug 16 00:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 00:36 : config: option 'device' on line 13 was not recognized
+Aug 16 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 00:36 : exception: Failed to decode /home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/AERO CHORD - PLAY YOUR PART [MUSIC VIDEO BELOW] [MONSTERCAT].mp3; Failed to open '/home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/AERO CHORD - PLAY YOUR PART [MUSIC VIDEO BELOW] [MONSTERCAT].mp3': No such file or directory
+Aug 16 00:36 : player: played "Monstercat/Monstercat Uncaged Vol. 6/AERO CHORD - PLAY YOUR PART [MUSIC VIDEO BELOW] [MONSTERCAT].mp3"
+Aug 16 00:36 : exception: Failed to decode /home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3; Failed to open '/home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3': No such file or directory
+Aug 16 00:36 : player: played "Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3"
+Aug 16 00:36 : exception: Failed to decode /home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3; Failed to open '/home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3': No such file or directory
+Aug 16 00:36 : player: played "Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3"
+Aug 16 00:36 : exception: Failed to decode /home/champions007/Music/Monstercat/Monstercat Uncaged - Vol. 1/Chardonnay (feat. Karra).mp3; Failed to open '/home/champions007/Music/Monstercat/Monstercat Uncaged - Vol. 1/Chardonnay (feat. Karra).mp3': No such file or directory
+Aug 16 00:36 : player: played "Monstercat/Monstercat Uncaged - Vol. 1/Chardonnay (feat. Karra).mp3"
+Aug 16 00:36 : exception: Failed to decode /home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/The Edge (feat. Nevve).mp3; Failed to open '/home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/The Edge (feat. Nevve).mp3': No such file or directory
+Aug 16 00:36 : player: played "Monstercat/Monstercat Uncaged Vol. 6/The Edge (feat. Nevve).mp3"
+Aug 16 00:36 : exception: Failed to decode /home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/Jungle Fury.mp3; Failed to open '/home/champions007/Music/Monstercat/Monstercat Uncaged Vol. 6/Jungle Fury.mp3': No such file or directory
+Aug 16 00:36 : player: played "Monstercat/Monstercat Uncaged Vol. 6/Jungle Fury.mp3"
+Aug 16 00:36 : client: [0] opened from 127.0.0.1:35450
+Aug 16 00:36 : client: [1] opened from 127.0.0.1:35454
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Muzzy - Spectrum.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/KUURO - Bandit.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Chardonnay (feat. Karra).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Anevo - Waiting On Your Call (feat. Park Avenue).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/MYRNE - Afterdark (feat. Aviella).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Tokyo Machine - BLAST.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Grant - Starship.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Darren Styles - Us Against The World.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Kayzo - This Time.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Pegboard Nerds x Quiet Disorder - Move That Body.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Unlike Pluto - Everything Black (feat. Mike Taylor).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Wolfgang Gartner x Aero Chord - Borneo.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Dirtyphonics & Bassnectar - Watch Out (feat. Ragga Twins).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Rogue x Stonebank x Slippy - Unity.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Monstercat - Uncaged Vol. 6 (Album Mix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/I (Still) Dream of You.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Holly & Loosid - Fire Flower.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Notaker - The Storm.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Slippy - One Thing (feat. Tim Moyo).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/HATE BEING ALONE FT. DYLAN MATTHEW.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/FWLR & A-SHO - Cave Me In.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Bossfight - Badmash.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/KUURO & Clockvice - 1000 Cuts.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Protostar & Muzzy - MELTDOWN.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Magic.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Trivecta - Axis.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Pixel Terror - Machina.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Lil Hank - Hank's Back.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Notaker - Into The Light (feat. Karra).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/FWLR - How We Win.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Jungle Fury.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Julian Calor - You Might Get Lost.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/SLANDER & SPAG HEDDY - RUNNING TO YOU FT. ELLE VEE.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Slippy - Show Me (feat. Sara Skinner).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Atmozfears - Lose It All.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/KUURO - What U Wanna Do (feat. Spencer Ludwig).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Au5 & Nytrix - Only In A Dream.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Justin OH - Loving Her Loving U (feat. Delaney Kai).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Stonebank - The Government.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Pixel Terror - Ultima.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Noisestorm - Breakout (feat. Foreign Beggars).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Overkill.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Bossfight - U Got Me.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/AERO CHORD - PLAY YOUR PART [MUSIC VIDEO BELOW] [MONSTERCAT].mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Darren Styles & Dougal - Home (feat. Jacob Wellfair).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Sullivan King - I'll Fight Back.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Modestep - Not IRL.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/SLUMBERJACK X Troyboi - Solid.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Will Sparks & SCNDL - Tombstone.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Fizzy Lifting Drink (feat. Big Gigantic & Jimi Tents).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/The Edge (feat. Nevve).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Crankdat & Tisoki - Wobble.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Tokyo Machine - EPIC.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/Infected Mushroom & Bliss - Bliss on Mushrooms (feat. Miyavi).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 6/SLANDER & RIOT - YOU DON'T EVEN KNOW ME.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Uncaged Vol. 5 Album Mix.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Matroda - Damn Floor.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Murder.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/The Mob.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Bossfight - Sovereign.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Soulji - Black Mask.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/KUURO - Knockin'.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Muzzy - In The Night (feat. Sullivan King).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Falcon Funk & Bossfight - Comeback.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Dirty Audio - Racks.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Pegboard Nerds & Dion Timmer - Escape.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Matroda - Boom Bap.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/FWLR - Numb (feat. Che'Nelle).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Slippy & Goja - Monster (feat. Panther).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Nitro Fun - Time Goes By.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Reach - Forever.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Bishu - Rituals.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Rameses B - Prometheus.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Justin OH - She's A Killer.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Tisoki - Bring It Back.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Bossfight - Work.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Koven - Board Game.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Rickyxsan - This Feeling (feat. Kalibwoy).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Bad Computer - Paradigm (feat. Karra).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Wicked (feat. Sullivan King).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Aiwa.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/KUURO - Take Me Down (feat. Bianca).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Trivecta & Wooli - Falling.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Muzzy - New Age (feat. Celldweller).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Stonebank - What's Going Down.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Two Minds (feat. Tim Moyo).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Dirtyphonics - Sayonara.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Modestep - Summer.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Tokyo Machine - COOKIES.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Delta Heavy - Exodus.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/MYRNE & Grant - Fault (feat. McCall).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Gammer - NEEDED U.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Deorro & Dirty Audio - Dracarys.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Dyro - Feel It Coming.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/SLANDER & CRANKDAT - KNEEL BEFORE ME FT. ASKING ALEXANDRIA.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 5/Knife Party + Pegboard Nerds - Harpoon [Monstercat].mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Monstercat Uncaged Vol. 4 (Album Mix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Matroda - Shut It Down.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/KUURO - Omen.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Slippy - Haunted VIP.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Modestep - Higher (Oliverse Remix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Supersonic feat. Chimeric.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Apriskah - Push It.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Droptek & Vorso - Smog.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Reach & Jupe - Beast.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Delta Heavy x Dirty Audio feat HOLLY - Stay (PhaseOne Remix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Gent & Jawns - Champion Sound.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Stonebank - Body Moving (feat. Whizzkid).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Nitro Fun - Cheat Codes VIP.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Modestep - Higher.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Pegboard Nerds - Just Dance (feat. Tia Simone).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Zac Waters - A Lot Like You.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Ephixa & Bossfight - Subside.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Gent & Jawns - The Meaning.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Bishu - Eyes Wide Open.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Slippy - Promise Me.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/MYRNE - Lyra.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Slander - Superhuman (Spag Heddy Remix) [feat. Eric Leva].mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Bad Computer - Disarray.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Taska Black - We Would Never Do (ft. Nevve).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/KUURO - Doji.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Darren Styles & Stonebank - Sky Is Falling (feat. EMEL).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Bring Me Joy - Pegboard Nerds X Lug00ber.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Modestep & Dion Timmer - Going Nowhere.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Infected Mushroom - Spitfire.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/Delta Heavy - I Need You.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 4/THE DROP.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Monstercat Uncaged - Vol. 3 (Album Mix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Dirtyphonics & Sullivan King - Vantablack.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Tokyo Machine - SPOOKY.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Zac Waters - Freak.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Topi - Got To Be.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Gammer - Stay Tonight (feat. Dylan Matthew).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Bishu - Bomb (feat. LeyeT).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Flite - We Are One.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Soupandreas - Sprite.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Bad Computer - New Dawn.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Reach - Nobushi.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/KAYZO & SLANDER - HOLY FT. MICAH MARTIN.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Jay Cosmic - Ascend.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Savoy - How U Like Me Now (feat. Roniit).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/INTERCOM - Decoy World (feat. Park Avenue).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Slippy - Moving Hectic (feat. Harry Shotta).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Stonebank - By Your Side (feat. EMEL).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Notaker & Declan James - Who I Am (feat. Karra).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/KUURO - Swarm.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Gammer - Let's Get Crunk.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Puppet & Foria - Bigger Picture.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/MYRNE - Confessions (feat. Cozi Zuehlsdorff).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Lookas - Eclipse.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Tokyo Machine - BUBBLES.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Dirtyphonics & Sullivan King - Sight Of Your Soul.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Grabbitz - Told Ya So.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Delta Heavy x Dirty Audio - Stay (feat. HOLLY).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Pegboard Nerds - Heaven Let Us Down (feat. Koda).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Ookay & Fox Stevenson - Lighthouse.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Seven Lions & Kill The Noise - Cold Hearted.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/SLANDER & KAYZO - WITHOUT YOU FT. DYLAN MATTHEW.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 3/Muzzy & Koven & Feint - Worth The Lie.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Monstercat Uncaged - Vol. 2 (Album Mix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Direct - Too Far Away.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Rameses B - Nova.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Mindsight & Duumu - What Feels Right.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Summer Was Fun - Love Back On (feat. Emelie Cyréus).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Glacier - Nurture (feat. Brenna Myers).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Orbiter - Discovery.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Tut Tut Child - If I Could (feat. Beth Cole).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Conro - Circus (feat. Beckii Power).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Droptek - Fragments.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Reach x Slippy - That Sound.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Conro - Close.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/MYRNE & Popeska - Get It All (feat. Emily Hendrix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/KUURO - Possession.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Conro - Lay Low (feat. David Benjamin).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/RIOT - Disorder.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Reach - Throw Handz.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/KUURO - Rapture (feat. MC Mota).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Grant - Are We Still Young (feat. Jessi Mason).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Darren Styles, Dougal & Gammer - Party Don't Stop.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Stonebank - Feel It.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Koven & Crystal Skies - You Me And Gravity.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Dion Timmer - Till I Make It (feat. Tima Dee).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Dirty Audio - Alien Cookies.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/DROELOE - JUMP (feat. Nevve).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Savoy & Grabbitz - Contemplate.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Extraordinary (feat. Elizaveta) - Pegboard Nerds x Spyker.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Dirtyphonics x RIOT - Got Your Love.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/SUPERHUMAN FT. ERIC LEVA.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Vicetone - I Hear You.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Kayzo & Gammer - Over The Edge (feat. AU8UST).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged Vol. 2/Grant, Anevo & Conro - Without You (feat. Victoria Zaro).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Monstercat Uncaged - Vol. 1 (Album Mix).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Mr FijiWiji & Exist Strategy - Andromeda (feat. Matt Van).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Duumu - Illuminate (feat. Slyleaf).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Unlike Pluto - Sweet (feat. Mister Blonde).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Mr FijiWiji & Direct - Tomorrow (feat. Matt Van & Holly Drummond).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Tokyo Machine - CRAZY.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/nanobii - Bubble Beam.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Glacier - Neos.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/RICCI - Boom.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Rootkit - Levitate (feat. Tylor Maurer).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Stonebank - Ripped To Pieces (feat. EMEL).mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Topi - Swapping Things.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Nitro Fun - Home.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Noisestorm - Escape.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Reach - Bollywood Stunna.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Zero Hero - Bass Drop.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Orbiter - Want You.mp3
+Aug 16 00:36 : update: removing Monstercat/Monstercat Uncaged - Vol. 1/Slippy x Holly - Turmoil.mp3
+Aug 16 00:36 : update: removing Teminite/Teminite - Unstoppable EP/Teminite - Hold On.mp3
+Aug 16 00:36 : update: removing Teminite/Teminite - Unstoppable EP/Teminite - Break Free.mp3
+Aug 16 00:36 : update: removing Teminite/Teminite - Unstoppable EP/Teminite - Believe.mp3
+Aug 16 00:36 : update: removing Teminite/Teminite - Unstoppable EP/Teminite - Unstoppable.mp3
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : exception: Failed to open /home/champions007/.config/mpd/playlists: No such file or directory
+Aug 16 00:36 : client: [1] closed
+Aug 16 00:36 : client: [0] closed
+Aug 16 00:36 : client: [2] opened from 127.0.0.1:35456
+Aug 16 00:57 : client: [2] closed
+Aug 16 00:57 : client: [3] opened from 127.0.0.1:35874
+Aug 16 01:06 : client: [3] closed
+Aug 16 01:06 : client: [4] opened from 127.0.0.1:35948
