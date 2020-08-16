@@ -24,11 +24,11 @@ super + shift + w
 super + shift + q
     xdo close && bspunhide
 
-# Move between desctop windows
+# Move between desktop windows
 super + {Up,Down,Left,Right}
     bspc node -f {north,south,west,east}
 
-# Move beetween virtual desktops
+# Move between virtual desktops
 super + {1-9}
     bspc desktop -f {1-9}
 
@@ -56,7 +56,7 @@ super + shift + e
 super + shift + b
     firefox
 
-# Move window to workspace
+# Move window to another workspace
 super + {_,shift + }{1-9,0}
     bspc {desktop -f,node -d} '^{1-9,10}'
 
