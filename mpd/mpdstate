@@ -1,7 +1,9 @@
-sw_volume: 100
+sw_volume: 90
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: stop
+state: pause
+current: 38
+time: 171.374000
 random: 0
 repeat: 0
 single: 1
@@ -10,4 +12,57 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
+0:100% No Bangers  (Free EP)/1. Fuck Gravity.mp3
+1:100% No Bangers  (Free EP)/2. Turn Up.mp3
+2:100% No Bangers  (Free EP)/3. Minimalist.mp3
+3:100% No Bangers  (Free EP)/1. Fuck Gravity.mp3
+4:100% No Bangers  (Free EP)/2. Turn Up.mp3
+5:100% No Bangers  (Free EP)/3. Minimalist.mp3
+6:100% No Bangers  (Free EP)/1. Fuck Gravity.mp3
+7:100% No Bangers  (Free EP)/2. Turn Up.mp3
+8:100% No Bangers  (Free EP)/3. Minimalist.mp3
+9:Save Yourself EP/GOAT.mp3
+10:Save Yourself EP/Iteration (Interlude).mp3
+11:Save Yourself EP/Insides.mp3
+12:100% No Bangers  (Free EP)/1. Fuck Gravity.mp3
+13:100% No Bangers  (Free EP)/2. Turn Up.mp3
+14:100% No Bangers  (Free EP)/3. Minimalist.mp3
+15:Save Yourself EP/GOAT.mp3
+16:Save Yourself EP/Iteration (Interlude).mp3
+17:Save Yourself EP/Insides.mp3
+18:Fight Back The Collection/Failure [Available on Spotify and Apple Music 🔥 ].mp3
+19:Fight Back The Collection/Watch Me 🏆 [Avail. on Spotify and Apple Music 🔥 ].mp3
+20:Fight Back The Collection/Never Give Up☝️ [Avail. on Spotify & Apple Music 🔥 ].mp3
+21:Fight Back The Collection/Unstoppable 👊.mp3
+22:Fight Back The Collection/Make It.mp3
+23:Fight Back The Collection/Spartan.mp3
+24:Save Yourself EP/Virtual Riot - The Recall.mp3
+25:Save Yourself EP/Virtual Riot - Wallmonger.mp3
+26:Save Yourself EP/Virtual Riot - Save Yourself.mp3
+27:Fight Back The Collection/Soldier 🔥.mp3
+28:Fight Back The Collection/Crown 👑  [Available on Spotify and Apple Music 🔥 ].mp3
+29:Save Yourself EP/Virtual Riot - Self Checkout.mp3
+30:Fight Back The Collection/Fight Back 👊 🔥.mp3
+31:Monstercat Uncaged Vol. 4/THE DROP.mp3
+32:Monstercat Uncaged Vol. 4/Infected Mushroom - Spitfire.mp3
+33:Monstercat Uncaged Vol. 4/Monstercat Uncaged Vol. 4 (Album Mix).mp3
+34:Monstercat Uncaged Vol. 4/Bishu - Eyes Wide Open.mp3
+35:Monstercat Uncaged Vol. 4/KUURO - Doji.mp3
+36:Monstercat Uncaged Vol. 4/Darren Styles & Stonebank - Sky Is Falling (feat. EMEL).mp3
+37:Monstercat Uncaged Vol. 4/Gent & Jawns - Champion Sound.mp3
+38:Monstercat Uncaged Vol. 4/Taska Black - We Would Never Do (ft. Nevve).mp3
+39:Save Yourself EP/Hysteria.mp3
+40:Monstercat Uncaged Vol. 4/Delta Heavy x Dirty Audio feat HOLLY - Stay (PhaseOne Remix).mp3
+41:Monstercat Uncaged Vol. 4/Modestep - Higher (Oliverse Remix).mp3
+42:Monstercat Uncaged Vol. 4/Matroda - Shut It Down.mp3
+43:Monstercat Uncaged Vol. 4/Apriskah - Push It.mp3
+44:Monstercat Uncaged Vol. 4/KUURO - Omen.mp3
+45:Monstercat Uncaged Vol. 4/Delta Heavy - I Need You.mp3
+46:Monstercat Uncaged Vol. 4/Modestep & Dion Timmer - Going Nowhere.mp3
+47:Monstercat Uncaged Vol. 4/Droptek & Vorso - Smog.mp3
+48:Monstercat Uncaged Vol. 4/Slippy - Haunted VIP.mp3
+49:Fight Back The Collection/Greatest ☝️.mp3
+50:Fight Back The Collection/Graveyard.mp3
+51:Fight Back The Collection/What's up.mp3
+52:Monstercat Uncaged Vol. 4/Bring Me Joy - Pegboard Nerds X Lug00ber.mp3
 playlist_end

@@ -7,7 +7,7 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.vim/plugged')
 " Syntax
-" Plug 'ycm-core/YouCompleteMe'
+Plug 'ycm-core/YouCompleteMe' 
 "Themes
 Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'
@@ -37,8 +37,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'gorodinskiy/vim-coloresque'
-Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'SirVer/ultisnips'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'altercation/vim-colors-solarized'
 Plug 'ryanoasis/vim-devicons'
@@ -110,7 +110,7 @@ autocmd FileType cs nnoremap <buffer> <leader>r :normal viw <Enter> :YcmComplete
 "}}}
 
 "{{{Compiling and runing c# code
-autocmd FileType cs nnoremap <buffer> <leader>c :update <bar> term dotnet run<CR>i 
+autocmd FileType cs nnoremap <buffer> <leader>c :update <bar> term dotnet run<CR>
 "}}}
 
 "{{{Compiling and running java code
