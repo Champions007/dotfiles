@@ -1,0 +1,70 @@
+\documentclass[12pt]{report}
+\usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{geometry}
+\usepackage{fontspec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage[labelformat=empty]{caption}
+\setmainfont{Times New Roman}
+
+%{{{ Footer and Header formating
+% Turn on a Page style.
+\pagestyle{fancy}
+% Clear header and footer.
+\fancyhead{}
+\fancyfoot{}
+% Set right side of the footer to be a page number.
+\fancyfoot[R]{\thepage}
+% Remove header and footer line
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+%}}}
+
+%{{{ Page Formating
+\geometry{
+a4paper,
+total={210mm,297mm},
+top=2cm,
+left=3cm,
+bottom=2cm,
+right=1.5cm,
+}
+\setlength{\parindent}{1.27cm}
+
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftaftertoctitleskip}{2pt}
+\renewcommand{\contentsname}{\fontsize{16}{20}\selectfont\begin{center} Satura Rādītājs \end{center}}
+\renewcommand{\numberline}[1]{}
+\renewcommand{\cftdotsep}{1}
+
+\fontdimen2\font=2pt
+
+\titleformat{\section}
+{\filcenter\bfseries\fontsize{16}{20}\selectfont}
+{}
+{0em}
+{}
+
+\titleformat{\subsection}
+{\bfseries\Large\filcenter}
+{}
+{0em}
+{}
+
+\titleformat{\subsubsection}
+{\bfseries\Large\filcenter}
+{}
+{0em}
+{}
+
+%}}}  
+
+%{{{Macros
+\newcommand{\image}[1]{
+}
+%}}}
