@@ -1,16 +1,18 @@
-\documentclass[12pt]{report}
-\usepackage{tocloft}
-\usepackage{graphicx}
-\usepackage{titlesec}
-\usepackage{titling}
-\usepackage{geometry}
-\usepackage{fontspec}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{fancyhdr}
-\usepackage[table,xcdraw]{xcolor}
-\usepackage[labelformat=empty]{caption}
-\setmainfont{Times New Roman}
+\documentclass[12pt,fleqn]{report} % fleqn moves formulas to left side of page while using amsmath.
+\usepackage{tocloft} % Package for toc formating.
+\usepackage{graphicx} % Package for inserting and modifing images.
+\usepackage{titlesec} % Package for formating titles and sections.
+\usepackage{titling} % Package for formating title.
+\usepackage{geometry} % Package for formating page, it's size, margins u.t.t.
+\usepackage{fontspec} % Package for setting system fonts if tex document is compiled with lualatex or xelatex.
+\usepackage{enumitem} % Package for formatinf lists.
+\usepackage{hyperref} % Package for formating hyper refrence and urls.
+\usepackage{fancyhdr} % Package for formating footer and header.
+\usepackage[table,xcdraw]{xcolor} % Package for setting colors, in this case for tables.
+\usepackage[labelformat=empty]{caption} % Package for formating citations.
+\usepackage{circuitikz} % Package for circuit diagrams.
+\usepackage{amsmath} % Package for math formating.
+\setmainfont{Times New Roman} % Setting main font to New Times Roman.
 
 %{{{ Footer and Header formating
 % Turn on a Page style.
@@ -34,16 +36,17 @@ left=3cm,
 bottom=2cm,
 right=1.5cm,
 }
-\setlength{\parindent}{1.27cm}
+\setlength{\parindent}{1.27cm} %Tab indent size in new paragrapgh.
 
-\setlength{\cftbeforetoctitleskip}{0pt}
-\setlength{\cftaftertoctitleskip}{2pt}
+\setlength{\cftbeforetoctitleskip}{0pt} % Space before tableofcontents.
+\setlength{\cftaftertoctitleskip}{2pt} %Space after tableofcontents.
 \renewcommand{\contentsname}{\fontsize{16}{20}\selectfont\begin{center} Satura Rādītājs \end{center}}
-\renewcommand{\numberline}[1]{}
-\renewcommand{\cftdotsep}{1}
+\renewcommand{\numberline}[1]{} % Setting tableofcontents numbering.
+\renewcommand{\cftdotsep}{1} % Tableofcontents lines are dotted.
 
 \fontdimen2\font=2pt
-
+\frenchspacing
+% Formating of section, subsection and subsubsection.
 \titleformat{\section}
 {\filcenter\bfseries\fontsize{16}{20}\selectfont}
 {}
