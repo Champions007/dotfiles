@@ -7,7 +7,11 @@ set nocompatible
 "{{{Plugins 
 call plug#begin('~/.vim/plugged')
 " Syntax
-Plug 'ycm-core/YouCompleteMe' 
+" Plug 'ycm-core/YouCompleteMe' 
+" Plug 'SirVer/ultisnips'
+Plug 'puremourning/vimspector'
+Plug 'omnisharp/omnisharp-vim'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "Themes
 Plug 'tomasiser/vim-code-dark'
 " Plug 'suan/vim-instant-markdown'
@@ -38,12 +42,11 @@ Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'gorodinskiy/vim-coloresque'
 Plug 'honza/vim-snippets'
-Plug 'SirVer/ultisnips'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'altercation/vim-colors-solarized'
 Plug 'ryanoasis/vim-devicons'
 Plug 'turbio/bracey.vim'
-Plug 'puremourning/vimspector'
+Plug 'terryma/vim-multiple-cursors'
 call plug#end()
  "}}}
 
@@ -135,6 +138,10 @@ set nowritebackup
 set noswapfile
 "}}}
 
+"{{{ Preview latex pdf document
+autocmd Filetype tex nnoremap <buffer> <leader>p :!zathura %:r.pdf 2>/dev/null & disown<CR><CR>
+"}}}
+
 "{{{See document word connt 
 autocmd Filetype tex map <leader>w :!detex % <bar> wc -w <CR>
 "}}}
@@ -154,7 +161,37 @@ nnoremap <buffer> <leader>gs :Gstatus<CR>
 nnoremap <buffer> <leader>ga :Gwrite<CR>
 nnoremap <buffer> <leader>gc :Gcommit<CR>
 nnoremap <buffer> <leader>gp :Gpush<CR>
-"}}}
+  "}}}
+
+" OmniSharp: {{{
+let s:using_snippets = 0
+let g:OmniSharp_popup_position = 'peek'
+if has('nvim')
+  let g:OmniSharp_popup_options = {
+  \ 'winhl': 'Normal:NormalFloat'
+  \}
+else
+  let g:OmniSharp_popup_options = {
+  \ 'highlight': 'Normal',
+  \ 'padding': [0, 0, 0, 0],
+  \ 'border': [1]
+  \}
+endif
+let g:OmniSharp_popup_mappings = {
+\ 'sigNext': '<C-n>',
+\ 'sigPrev': '<C-p>',
+\ 'pageDown': ['<C-f>', '<PageDown>'],
+\ 'pageUp': ['<C-b>', '<PageUp>']
+\}
+
+if s:using_snippets
+  let g:OmniSharp_want_snippet = 1
+endif
+
+let g:OmniSharp_highlight_groups = {
+\ 'ExcludedCode': 'NonText'
+\}
+" }}}
 
 " {{{Plugin configuration
 
