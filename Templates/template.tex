@@ -1,4 +1,4 @@
-\documentclass[12pt,fleqn]{report} % fleqn moves formulas to left side of page while using amsmath.
+\documentclass[12pt,fleqn]{report} % fleqn moves formulas to left side of page while using package amsmath.
 \usepackage{tocloft} % Package for toc formating.
 \usepackage{graphicx} % Package for inserting and modifing images.
 \usepackage{titlesec} % Package for formating titles and sections.
@@ -41,27 +41,30 @@ right=1.5cm,
 
 \setlength{\cftbeforetoctitleskip}{0pt} % Space before tableofcontents.
 \setlength{\cftaftertoctitleskip}{2pt} %Space after tableofcontents.
-\renewcommand{\contentsname}{\fontsize{16}{20}\selectfont\begin{center} Satura Rādītājs \end{center}}
+\renewcommand{\contentsname}{\fontsize{18}{23}\selectfont\begin{center} Satura Rādītājs \end{center}}
 \renewcommand{\numberline}[1]{} % Setting tableofcontents numbering.
 \renewcommand{\cftdotsep}{1} % Tableofcontents lines are dotted.
+
+\setcounter{tocdepth}{3} % set depth in toc for subsubsection.
+\setcounter{secnumdepth}{3} % set numbring in toc for subsubsection.
 
 \fontdimen2\font=2pt
 \frenchspacing
 % Formating of section, subsection and subsubsection.
 \titleformat{\section}
-{\filcenter\bfseries\fontsize{16}{20}\selectfont}
+{\filcenter\bfseries\fontsize{18}{23}\selectfont}
 {}
 {0em}
 {}
 
 \titleformat{\subsection}
-{\bfseries\Large\filcenter}
+{\filcenter\bfseries\fontsize{16}{20}\selectfont}
 {}
 {0em}
 {}
 
 \titleformat{\subsubsection}
-{\bfseries\Large\filcenter}
+{\filcenter\bfseries\fontsize{14}{17}\selectfont}
 {}
 {0em}
 {}
