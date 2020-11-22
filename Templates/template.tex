@@ -12,7 +12,8 @@
 \usepackage[labelformat=empty]{caption} % Package for formating citations.
 \usepackage{circuitikz} % Package for circuit diagrams.
 \usepackage{amsmath} % Package for math formating.
-\usepackage[backend=biber]{biblatex} % Package for bibliographty support.
+\usepackage[latvian]{babel} % Package for document/bibliography language.
+\usepackage[backend=biber,babel=other]{biblatex} % Package for bibliographty support.
 \setmainfont{Times New Roman} % Setting main font to New Times Roman.
 
 %{{{ Footer and Header formating
@@ -41,7 +42,7 @@ right=1.5cm,
 
 \setlength{\cftbeforetoctitleskip}{0pt} % Space before tableofcontents.
 \setlength{\cftaftertoctitleskip}{2pt} %Space after tableofcontents.
-\renewcommand{\contentsname}{\fontsize{18}{23}\selectfont\begin{center} Satura Rādītājs \end{center}}
+\addto\captionslatvian{\renewcommand{\contentsname}{\fontsize{18}{23}\selectfont\begin{center} Satura Rādītājs \end{center}}}
 \renewcommand{\numberline}[1]{} % Setting tableofcontents numbering.
 \renewcommand{\cftdotsep}{1} % Tableofcontents lines are dotted.
 
@@ -54,19 +55,19 @@ right=1.5cm,
 \titleformat{\section}
 {\filcenter\bfseries\fontsize{18}{23}\selectfont}
 {}
-{0em}
+{0cm}
 {}
 
 \titleformat{\subsection}
 {\filcenter\bfseries\fontsize{16}{20}\selectfont}
 {}
-{0em}
+{0cm}
 {}
 
 \titleformat{\subsubsection}
 {\filcenter\bfseries\fontsize{14}{17}\selectfont}
 {}
-{0em}
+{0cm}
 {}
 
 %}}}  
